@@ -1,5 +1,5 @@
-baseURL: 'https://username.github.io/'
-title: Hugo-Flex Demo Site
+baseURL: 'https://yanbozyb.github.io/mysite'
+title: Yanbo (Ian) Zhou
 author: Jane Doe
 languageCode: en-us
 pygmentsCodeFences: true
@@ -12,8 +12,8 @@ permalinks:
   pages: '/:filename/'
 
 params:
-  color: black
-  width: 42rem
+  color: teal
+  width: 62rem
   description: Jane Doe's webpages
   footer: Except where otherwise noted, content on this site is licensed under a
     a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">

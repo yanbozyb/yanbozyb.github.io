@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yanbozyb.github.io/mysite/categories/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yanbozyb.github.io/mysite/categories/demo/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yanbozyb.github.io/mysite/tags/hello-world/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yanbozyb.github.io/mysite/my-first-post/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yanbozyb.github.io/mysite/posts/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yanbozyb.github.io/mysite/tags/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yanbozyb.github.io/mysite/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yanbozyb.github.io/mysite/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+</urlset>
