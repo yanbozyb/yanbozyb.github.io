@@ -3,3 +3,41 @@ kbd {
   padding: 2px;
   border: 1px solid grey;
 }
+
+/*for heading words */
+.u-clickable {
+  font-weight: normal;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* for linked words */
+a {
+  font-weight: normal;
+  text-decoration: underline;
+  color: #005587;
+}
+
+/* for bold words */
+strong, b {
+  font-weight: 600;
+}
+
+/* for the block of list and its context */
+ul, ol {
+  margin-left: -5px;
+}
+
+/* for each line within the list */
+li {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+

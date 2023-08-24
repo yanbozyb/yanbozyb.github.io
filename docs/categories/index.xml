@@ -2,27 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="https://yanbozyb.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Yanbo (Ian) Zhou</title>
+    <title>Categories on Home | Yanbo Zhou</title>
     <link>https://yanbozyb.github.io/categories/</link>
-    <description>Recent content in Categories on Yanbo (Ian) Zhou</description>
+    <description>Recent content in Categories on Home | Yanbo Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yanbozyb.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First blog post</title>
-      <link>https://yanbozyb.github.io/my-first-post/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://yanbozyb.github.io/my-first-post/</guid>
-      <description>&lt;p&gt;This is a first blog post.
-Thanks to GoHugo for providing blazing fast static site generation.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://yanbozyb.github.io/hugo-logo-wide.svg&#34;
-         alt=&#34;GoHugo logo&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;GoHugo&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-</description>
-    </item>
   </channel>
 </rss>

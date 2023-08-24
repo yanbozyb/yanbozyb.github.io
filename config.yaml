@@ -1,6 +1,6 @@
 baseURL: 'https://yanbozyb.github.io'
-title: Yanbo (Ian) Zhou
-author: Jane Doe
+title: Home | Yanbo Zhou
+author: Yanbo Zhou
 languageCode: en-us
 pygmentsCodeFences: true
 enableRobotsTXT: true
@@ -12,12 +12,13 @@ permalinks:
   pages: '/:filename/'
 
 params:
-  color: teal
-  width: 62rem
-  description: Jane Doe's webpages
-  footer: Except where otherwise noted, content on this site is licensed under a
-    a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
-    Creative Commons Attribution 4.0 International License</a>.
+  color: "#005587"
+  width: 65rem
+  description: Yanbo Zhou's webpages
+  #footer: Except where otherwise noted, content on this site is licensed under a
+  #  <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
+  #  Creative Commons Attribution 4.0 International License</a>.
+  footer: Updated in 2023.
   rss: >-
     To subscribe to this RSS feed, copy the address in the address bar and paste
     it into your favorite feed reader.
@@ -39,19 +40,11 @@ params:
   #   - js/foo.js
   #   - bar.js
 
-
-
 menu:
   nav:
-    - name: About
-      url: about/
+    - name: Publications
+      url: "#publications"
       weight: 1
-    - name: Blog
-      url: posts/
+    - name: Talks
+      url: "#talks"
       weight: 2
-    - name: Tags
-      url: tags/
-      weight: 3
-    - name: Categories
-      url: categories/
-      weight: 4

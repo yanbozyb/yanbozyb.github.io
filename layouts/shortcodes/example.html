@@ -1,0 +1,12 @@
+<div style="display: flex; align-items: center; margin-top: 30px;">
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" height="200"/>
+    <!-- * is used for splitting context -->
+    {{ $contentSlices := split .Inner "*" }}
+    <div style="margin-left: 40px;">
+        <span style="font-size: 25px; display: block; margin-bottom: 0px;">Yanbo Zhou</span>
+        {{ index $contentSlices 0 | markdownify }}
+    </div>
+    <div style="margin-left: 120px;">
+        {{ index $contentSlices 1 | markdownify }}
+    </div>
+</div>
