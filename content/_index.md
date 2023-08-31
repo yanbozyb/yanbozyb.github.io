@@ -23,13 +23,13 @@ Email: yaz093 [at] ucsd [dot] edu
 
 I am currently a Ph.D. student in Computer Science at the [University of California, San Diego](https://ucsd.edu/) and a member of [Non-Volatile Systems Laboratory](https://www.nvsl.io/). My advisor is Professor [Steven Swanson](https://swanson.ucsd.edu/). I have broad interests in storage and memory systems, including cloud storage, flash storage, persistent memory, CXL, and software-hardware co-design.
 
-Before starting my Ph.D., I spent four years working at **Alibaba Cloud** (2019 - 2023) where I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products at Alibaba Cloud. A well-known product I led is [D3C Instance](https://www.alibabacloud.com/help/en/elastic-compute-service/latest/big-data-instance-families#section-9in-q1s-mqb) that is designed for big data services with large-capacity and high-performance local storage. We designed this service with high-density QLC NAND flash and a **cloud storage acceleration layer (CSAL)** in collaboration with **Solidigm**. Another significant project I made is [ESSD-PLX](https://help.aliyun.com/document_detail/416273.html) which is the fastest cloud disk of Alibaba Cloud (with three million random IOPS and 30us end-to-end latency). To achieve the performance goal, I contributed to a distributed persistent memory cache from scratch.
+Before starting my Ph.D., I spent four years working at **Alibaba Cloud** (2019 - 2023) where I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products at Alibaba Cloud. A well-known product I led is [D3C Instance](https://www.alibabacloud.com/help/en/elastic-compute-service/latest/big-data-instance-families#section-9in-q1s-mqb) that is designed for big data services with large-capacity and high-performance local storage. We designed this service with high-density QLC NAND flash and a [Cloud Storage Acceleration Layer (CSAL)](https://www.solidigm.com/products/technology/csal-based-reference-storage-platform.html) in collaboration with **Solidigm**. Another significant project I made is [ESSD-PLX](https://help.aliyun.com/document_detail/416273.html) which is the fastest cloud disk of Alibaba Cloud (with three million random IOPS and 30us end-to-end latency). To achieve the performance goal, I contributed to a distributed persistent memory cache from scratch.
 
 I was also one of the founding members of [SPDK](https://spdk.io/) China team at **Intel** where I spent two years working as an intern (2017-2019). I was fortunate to work with SPDK members on several storage projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to practical cloud system like Alibaba Cloud.
 
 {{< colorHead >}}Recent Updates{{< /colorHead >}}
 - [Sep. 2023] Start my Ph.D. at UCSD since this month.
-- [Oct. 2023] My paper has been accepted by [EuroSys'24](https://2024.eurosys.org/) (previous revision from EuroSys'23).
+- [Aug. 2023] My paper has been accepted by [EuroSys'24](https://2024.eurosys.org/) (previous revision from EuroSys'23).
 
 {{< colorHead >}}Publications{{< /colorHead >}}
 {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}}
@@ -56,7 +56,7 @@ I was also one of the founding members of [SPDK](https://spdk.io/) China team at
 - **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba ECS Local Disk D3C Service**  
     **Yanbo Zhou**, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak  
     In *Intel White Paper*, 2023  
-    [[Paper]](https://cdrdv2-public.intel.com/765062/a-media-aware-cloud-storage-acceleration-layer-cache-solution-with-intel-optane-ssds-011623.pdf) 
+    [[Paper]](https://www.intel.com/content/www/us/en/content-details/765062/a-media-aware-cloud-storage-acceleration-layer-csal-cache-solution-with-intel-optane-ssds-for-alibaba-ecs-local-disk-d3c-service.html) 
 
 {{< colorHeadSmall color='black' >}}Book Chapters{{< /colorHeadSmall >}}
 - **Linux Open Source Storage: from Ceph to Container (Chinese Edition)**  
