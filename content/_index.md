@@ -8,20 +8,21 @@ description: My Biography
 {{< example src="my3.jpg" alt="xxx" >}}
 Ph.D. Student  
 [Non-Volatile Systems Laboratory](https://www.nvsl.io/)  
-[Computer Science and Engineering](https://cse.ucsd.edu/)  
-[University of California, San Diego](https://ucsd.edu/)
+[University of California, San Diego](https://ucsd.edu/)  
 
-Email: yaz093 [at] ucsd [dot] edu
+[[CV](cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=T5KZshEAAAAJ)]  
+Contact: yaz093 [at] ucsd [dot] edu
+
 *
 - Cloud Storage
 - Flash Storage
-- Persistent Memory
+- Computational Storage
 - Compute Express Link (CXL)
 - Software/Hardware Co-design
 {{< /example >}}
 
 
-I am currently a Ph.D. student in Computer Science at the [University of California, San Diego](https://ucsd.edu/) and a member of [Non-Volatile Systems Laboratory](https://www.nvsl.io/). My advisor is Professor [Steven Swanson](https://swanson.ucsd.edu/). I have broad interests in storage and memory systems, including cloud storage, flash storage, persistent memory, CXL, and software-hardware co-design.
+I am currently a Ph.D. student in Computer Science at the [University of California, San Diego](https://ucsd.edu/) and a member of [Non-Volatile Systems Laboratory](https://www.nvsl.io/). My advisor is Professor [Steven Swanson](https://swanson.ucsd.edu/). I have broad interests in storage and memory systems, including cloud storage, flash storage, computational storage, CXL, and software-hardware co-design.
 
 Before starting my Ph.D., I spent four years working at **Alibaba Cloud** (2019 - 2023) where I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products at Alibaba Cloud. A well-known product I led is [D3C Instance](https://www.alibabacloud.com/help/en/elastic-compute-service/latest/big-data-instance-families#section-9in-q1s-mqb) that is designed for big data services with large-capacity and high-performance local storage. We designed this service with high-density QLC NAND flash and a [Cloud Storage Acceleration Layer (CSAL)](https://www.solidigm.com/products/technology/csal-based-reference-storage-platform.html) in collaboration with **Solidigm**. Another significant project I made is [ESSD-PLX](https://help.aliyun.com/document_detail/416273.html) which is the fastest cloud disk of Alibaba Cloud (with three million random IOPS and 30us end-to-end latency). To achieve the performance goal, I contributed to a distributed persistent memory cache from scratch.
 
