@@ -10,8 +10,7 @@ Ph.D. Student
 [Non-Volatile Systems Laboratory](https://www.nvsl.io/)  
 [University of California, San Diego](https://ucsd.edu/)  
 
-[[CV](cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=T5KZshEAAAAJ)]  
-Contact: yaz093 [at] ucsd [dot] edu
+[Email](mailto:yaz093@ucsd.edu) / [Linkedin](https://www.linkedin.com/in/yanbo-zhou-b37632291/) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=T5KZshEAAAAJ)  
 
 *
 - Cloud Storage
