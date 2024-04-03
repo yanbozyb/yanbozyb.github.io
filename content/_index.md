@@ -27,43 +27,45 @@ Before starting my Ph.D., I spent four years working at **Alibaba Cloud** (2019 
 
 I was also one of the founding members of [SPDK](https://spdk.io/) China team at **Intel** where I spent two years working as an intern (2017-2019). I was fortunate to work with SPDK members on several storage projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to practical cloud system like Alibaba Cloud.
 
-{{< colorHead >}}Recent Updates{{< /colorHead >}}
+{{< colorHead color='black' >}}Recent Updates{{< /colorHead >}}
 - [Sep. 2023] Start my Ph.D. at UCSD since this month.
-- [Aug. 2023] My paper has been accepted by [EuroSys'24](https://2024.eurosys.org/) (previous revision from EuroSys'23).
+- [Aug. 2023] *CSAL: the Next-Gen Local Disks for the Cloud* has been accepted by [EuroSys'24](https://2024.eurosys.org/).
 
-{{< colorHead >}}Publications{{< /colorHead >}}
-{{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}}
-- **Sonic: the Next-Gen Local Disks for the Cloud**  
+{{< colorHead color='black' >}}Publications{{< /colorHead >}}
+<!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
+- **CSAL: the Next-Gen Local Disks for the Cloud**  
     **Yanbo Zhou**, Erci Xu, Li Zhang, Kapil Karkra, Mariusz Barczak, Wayne Gao, Wojciech Malikowski, Mateusz Kozlowski, Łukasz Łasek, Ruiming Lu, Feng, Yang, Lilong Huang, Xiaolu Zhang, Wenrui Li, Jinhu Li, Keqiang Niu, Jiaji Zhu, Jiesheng Wu  
-    To appear in *EuroSys*, 2024.
+    In *Proceedings of the European Conference on Computer Systems (EuroSys)*, 2024.  
+    **Two artifact badges (available and functional) received**  
+    [[Paper]](https://2024.eurosys.org/program.html#pagetop)
+
+- **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba ECS Local Disk D3C Service**  
+    **Yanbo Zhou**, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak  
+    In *Intel White Paper*, 2023  
+    [[Paper]](https://www.intel.com/content/www/us/en/content-details/765062/a-media-aware-cloud-storage-acceleration-layer-csal-cache-solution-with-intel-optane-ssds-for-alibaba-ecs-local-disk-d3c-service.html)
 
 - **Spool: Reliable Virtualized NVMe Storage Pool in Public Cloud Infrastructure**  
     Shuai Xue, Shang Zhao, Quan Chen, Gang Deng, Zheng Liu, Jie Zhang, Zhuo Song, Tao Ma, Yong Yang, **Yanbo Zhou**, Keqiang Niu, Sijie Sun, Minyi Guo  
-    In *the Proceedings of the USENIX Annual Technical Conference (ATC)*, 2020.  
+    In *Proceedings of the USENIX Annual Technical Conference (ATC)*, 2020.  
     [[Paper]](https://www.usenix.org/system/files/atc20-xue_0.pdf) / [[Slides]](https://www.usenix.org/system/files/atc20-paper398-slides-xue.pdf)  
 
 - **Write-aware Data Allocation on Heterogeneous Memory Architecture with Minimum Cost**  
     **Yanbo Zhou**, Shouzhen Gu, Lixia Zheng, Edwin H.-M. Sha, Qingfeng Zhuge  
-    In *the Proceedings of the IEEE International Conference on Embedded and Real-Time Computing System and Applications (RTCSA)*, 2018.  
+    In *Proceedings of the IEEE International Conference on Embedded and Real-Time Computing System and Applications (RTCSA)*, 2018.  
     [[Paper]](https://ieeexplore.ieee.org/document/8607231)
 
 - **Accelerating I/Os in virtual machines on physical NVMe SSDs via user space vhost target**  
     Ziye Yang, Changpeng Liu, **Yanbo Zhou**, Xiaodong Liu, Gang Cao  
-    In *the Proceedings of the IEEE International Symposium on Cloud and Services Computing (SC2)*, 2018.  
+    In *Proceedings of the IEEE International Symposium on Cloud and Services Computing (SC2)*, 2018.  
     [[Paper]](https://ieeexplore.ieee.org/document/8567374) / [[Porject]](https://spdk.io/doc/vhost.html) / [[Slides]](https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Accelerating-NVMe-I_Os-in-Virtual-Machine-via-SPDK-vhost_-Solution-Ziye-Yang-_-Changpeng-Liu-Intel.pdf)
 
-{{< colorHeadSmall color='black' >}}Posters{{< /colorHeadSmall >}}
-- **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba ECS Local Disk D3C Service**  
-    **Yanbo Zhou**, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak  
-    In *Intel White Paper*, 2023  
-    [[Paper]](https://www.intel.com/content/www/us/en/content-details/765062/a-media-aware-cloud-storage-acceleration-layer-csal-cache-solution-with-intel-optane-ssds-for-alibaba-ecs-local-disk-d3c-service.html) 
-
-{{< colorHeadSmall color='black' >}}Book Chapters{{< /colorHeadSmall >}}
+{{< colorHead color='black' >}}Book Chapters{{< /colorHead >}}
+<!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
 - **Linux Open Source Storage: from Ceph to Container (Chinese Edition)**  
-    In *the Publishing House of Electronics Industry*, 2019.  
-    [[Book]](https://www.amazon.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%9A%E5%A4%AA%E7%A0%94%E5%8F%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%BC%96%E8%91%97-ebook/dp/B09PHKJRJ8?language=en_US)
- 
-{{< colorHead >}}Talks{{< /colorHead >}}
+    In *Publishing House of Electronics Industry*, 2019.  
+    [[Book Link]](https://www.amazon.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%9A%E5%A4%AA%E7%A0%94%E5%8F%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%BC%96%E8%91%97-ebook/dp/B09PHKJRJ8?language=en_US)
+
+{{< colorHead color='black' >}}Invited Talks{{< /colorHead >}}
 - **Best SPDK Practices: Lessons from Five Years of Storage Evolution in Alibaba Cloud**  
     **Yanbo Zhou**  
     In *SPDK PRC Virtual Forum*, 2023.  

@@ -11,6 +11,12 @@ kbd {
   display: inline-block;
 }
 
+/* main body font */
+body {
+  font-size: 12.3pt;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 /* for linked words */
 a {
   font-weight: normal;

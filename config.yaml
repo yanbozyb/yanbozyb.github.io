@@ -12,8 +12,9 @@ permalinks:
   pages: '/:filename/'
 
 params:
-  color: "#005587"
-  width: 60rem
+  #color: "#005587"
+  color: "#000000"
+  width: 61rem
   description: Yanbo Zhou's webpages
   #footer: Except where otherwise noted, content on this site is licensed under a
   #  <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
