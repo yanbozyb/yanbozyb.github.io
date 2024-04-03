@@ -23,12 +23,13 @@ Ph.D. Student
 
 I am currently a Ph.D. student in Computer Science at the [University of California, San Diego](https://ucsd.edu/) and a member of [Non-Volatile Systems Laboratory](https://www.nvsl.io/). My advisor is Professor [Steven Swanson](https://swanson.ucsd.edu/). I have broad interests in storage and memory systems, including cloud storage, flash storage, computational storage, CXL, and software-hardware co-design.
 
-Before starting my Ph.D., I spent four years working at **Alibaba Cloud** (2019 - 2023) where I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products at Alibaba Cloud. A well-known product I led is [D3C Instance](https://www.alibabacloud.com/help/en/elastic-compute-service/latest/big-data-instance-families#section-9in-q1s-mqb) that is designed for big data services with large-capacity and high-performance local storage. We designed this service with high-density QLC NAND flash and a [Cloud Storage Acceleration Layer (CSAL)](https://www.solidigm.com/products/technology/csal-based-reference-storage-platform.html) in collaboration with **Solidigm**. Another significant project I made is [ESSD-PLX](https://help.aliyun.com/document_detail/416273.html) which is the fastest cloud disk of Alibaba Cloud (with three million random IOPS and 30us end-to-end latency). To achieve the performance goal, I contributed to a distributed persistent memory cache from scratch.
+Before starting my Ph.D., I spent four years working at **Alibaba Cloud** (2019 - 2023) where I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products at Alibaba Cloud. A well-known product I led is [D3C Instance](https://www.alibabacloud.com/help/en/elastic-compute-service/latest/big-data-instance-families#section-9in-q1s-mqb) that is designed for big data services with large-capacity and high-performance local storage. We designed this service with high-density QLC NAND flash and a [Cloud Storage Acceleration Layer (CSAL)](https://www.solidigm.com/products/technology/cloud-storage-acceleration-layer-write-shaping-csal.html) in collaboration with **Solidigm**. Another significant project I made is [ESSD-PLX](https://help.aliyun.com/document_detail/416273.html) which is the fastest cloud disk of Alibaba Cloud (with three million random IOPS and 30us end-to-end latency). To achieve the performance goal, I contributed to a distributed persistent memory cache from scratch.
 
 I was also one of the founding members of [SPDK](https://spdk.io/) China team at **Intel** where I spent two years working as an intern (2017-2019). I was fortunate to work with SPDK members on several storage projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to practical cloud system like Alibaba Cloud.
 
 {{< colorHead color='black' >}}Recent Updates{{< /colorHead >}}
-- [Sep. 2023] Start my Ph.D. at UCSD since this month.
+- [Apr. 2024] Received student grant from EuroSys to attend the conference. Thanks EuroSys orgnization.
+- [Sep. 2023] Start my Ph.D. at University of California, San Diego since this month.
 - [Aug. 2023] *CSAL: the Next-Gen Local Disks for the Cloud* has been accepted by [EuroSys'24](https://2024.eurosys.org/).
 
 {{< colorHead color='black' >}}Publications{{< /colorHead >}}
@@ -60,12 +61,6 @@ I was also one of the founding members of [SPDK](https://spdk.io/) China team at
     In *Proceedings of the IEEE International Symposium on Cloud and Services Computing (SC2)*, 2018.  
     [[Paper]](https://ieeexplore.ieee.org/document/8567374) / [[Porject]](https://spdk.io/doc/vhost.html) / [[Slides]](https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Accelerating-NVMe-I_Os-in-Virtual-Machine-via-SPDK-vhost_-Solution-Ziye-Yang-_-Changpeng-Liu-Intel.pdf)
 
-{{< colorHead color='black' >}}Book Chapters{{< /colorHead >}}
-<!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
-- **Linux Open Source Storage: from Ceph to Container (Chinese Edition)**  
-    In *Publishing House of Electronics Industry*, 2019.  
-    [[Book Link]](https://www.amazon.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%9A%E5%A4%AA%E7%A0%94%E5%8F%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%BC%96%E8%91%97-ebook/dp/B09PHKJRJ8?language=en_US)
-
 {{< colorHead color='black' >}}Invited Talks{{< /colorHead >}}
 - **Best SPDK Practices: Lessons from Five Years of Storage Evolution in Alibaba Cloud**  
     **Yanbo Zhou**  
@@ -81,3 +76,9 @@ I was also one of the founding members of [SPDK](https://spdk.io/) China team at
     **Yanbo Zhou**  
     In *SPDK PRC Virtual Forum*, 2022.  
     [[Talk - Chinese]](https://www.youtube.com/watch?v=DOMPG9IBspE)
+
+{{< colorHead color='black' >}}Book Chapters{{< /colorHead >}}
+<!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
+- **Linux Open Source Storage: from Ceph to Container (Chinese Edition)**  
+    In *Publishing House of Electronics Industry*, 2019.  
+    [[Book Link]](https://www.amazon.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%9A%E5%A4%AA%E7%A0%94%E5%8F%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%BC%96%E8%91%97-ebook/dp/B09PHKJRJ8?language=en_US)

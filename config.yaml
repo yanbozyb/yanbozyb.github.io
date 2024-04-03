@@ -47,5 +47,8 @@ menu:
       url: "#publications"
       weight: 1
     - name: Talks
-      url: "#talks"
+      url: "#invited-talks"
       weight: 2
+    - name: Books
+      url: "#book-chapters"
+      weight: 3
