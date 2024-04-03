@@ -36,7 +36,8 @@ I was also one of the founding members of [SPDK](https://spdk.io/) China team at
 - **CSAL: the Next-Gen Local Disks for the Cloud**  
     **Yanbo Zhou**, Erci Xu, Li Zhang, Kapil Karkra, Mariusz Barczak, Wayne Gao, Wojciech Malikowski, Mateusz Kozlowski, Łukasz Łasek, Ruiming Lu, Feng, Yang, Lilong Huang, Xiaolu Zhang, Wenrui Li, Jinhu Li, Keqiang Niu, Jiaji Zhu, Jiesheng Wu  
     In *Proceedings of the European Conference on Computer Systems (EuroSys)*, 2024.  
-    **Two artifact badges (available and functional) received**  
+    {{< colorBody >}}Two artifact badges (available and functional) received{{< /colorBody >}}  
+    {{< colorBody >}}Source code of CSAL has been upstreamed into SPDK (release v22.09){{< /colorBody >}}  
     [[Paper]](https://2024.eurosys.org/program.html#pagetop)
 
 - **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba ECS Local Disk D3C Service**  
