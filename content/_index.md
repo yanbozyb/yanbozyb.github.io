@@ -35,11 +35,11 @@ I was also one of the founding members of [SPDK](https://spdk.io/) China team at
 {{< colorHead color='black' >}}Publications{{< /colorHead >}}
 <!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
 - **CSAL: the Next-Gen Local Disks for the Cloud**  
-    **Yanbo Zhou**, Erci Xu, Li Zhang, Kapil Karkra, Mariusz Barczak, Wayne Gao, Wojciech Malikowski, Mateusz Kozlowski, Łukasz Łasek, Ruiming Lu, Feng, Yang, Lilong Huang, Xiaolu Zhang, Wenrui Li, Jinhu Li, Keqiang Niu, Jiaji Zhu, Jiesheng Wu  
+    **Yanbo Zhou**, Erci Xu, Li Zhang, Kapil Karkra, Mariusz Barczak, Wayne Gao, Wojciech Malikowski, Mateusz Kozlowski, Łukasz Łasek, Ruiming Lu, Feng, Yang, Lilong Huang, Xiaolu Zhang, Keqiang Niu, Jiaji Zhu, Jiesheng Wu  
     In *Proceedings of the European Conference on Computer Systems (EuroSys)*, 2024.  
     {{< colorBody >}}Two artifact badges (available and functional) received{{< /colorBody >}}  
-    {{< colorBody >}}Source code of CSAL has been upstreamed into SPDK (release v22.09){{< /colorBody >}}  
-    [[Paper]](https://2024.eurosys.org/program.html#pagetop)
+    {{< colorBody >}}Source code of CSAL has been upstreamed into SPDK {{< /colorBody >}}  
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3627703.3629566) / [[Slides]](slides/csal_eurosys_used_for_external.pdf) / [[Project]](https://spdk.io/doc/ftl.html) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)
 
 - **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba ECS Local Disk D3C Service**  
     **Yanbo Zhou**, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak  
@@ -59,18 +59,14 @@ I was also one of the founding members of [SPDK](https://spdk.io/) China team at
 - **Accelerating I/Os in virtual machines on physical NVMe SSDs via user space vhost target**  
     Ziye Yang, Changpeng Liu, **Yanbo Zhou**, Xiaodong Liu, Gang Cao  
     In *Proceedings of the IEEE International Symposium on Cloud and Services Computing (SC2)*, 2018.  
-    [[Paper]](https://ieeexplore.ieee.org/document/8567374) / [[Porject]](https://spdk.io/doc/vhost.html) / [[Slides]](https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Accelerating-NVMe-I_Os-in-Virtual-Machine-via-SPDK-vhost_-Solution-Ziye-Yang-_-Changpeng-Liu-Intel.pdf)
+    [[Paper]](https://ieeexplore.ieee.org/document/8567374) / [[Slides]](https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Accelerating-NVMe-I_Os-in-Virtual-Machine-via-SPDK-vhost_-Solution-Ziye-Yang-_-Changpeng-Liu-Intel.pdf)
+    / [[Project]](https://spdk.io/doc/vhost.html)
 
 {{< colorHead color='black' >}}Invited Talks{{< /colorHead >}}
 - **Best SPDK Practices: Lessons from Five Years of Storage Evolution in Alibaba Cloud**  
     **Yanbo Zhou**  
     In *SPDK PRC Virtual Forum*, 2023.  
     [[Talk - Chinese]](https://www.youtube.com/watch?v=--bw0ngV-po)
-
-- **CSAL: Enabling Unprecedented Performance and Capacity Values with Optane and QLC Flash**  
-    **Yanbo Zhou**, Kapil Karkra, Qinghua Ye, Li Zhang, Mariusz Barczak, Wojciech Malikowski, Wayne Gao, Greg Scott, Ron Thornburg  
-    In *SNIA Storage Developer Conference, Silicon Valley, CA*, 2022.  
-    [[Slides]](https://storagedeveloper.org/events/agenda/session/358)  
 
 - **O+Q in the cloud: Removing QLC Write-Amplification through Intel Optane SSD with SPDK WSR**  
     **Yanbo Zhou**  
