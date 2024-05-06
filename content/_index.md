@@ -39,7 +39,7 @@ I was also one of the founding members of [SPDK](https://spdk.io/) China team at
     In *Proceedings of the European Conference on Computer Systems (EuroSys)*, 2024.  
     {{< colorBody >}}Two artifact badges (available and functional) received{{< /colorBody >}}  
     {{< colorBody >}}Source code of CSAL has been upstreamed into SPDK {{< /colorBody >}}  
-    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3627703.3629566) / [[Slides]](slides/csal_eurosys_used_for_external.pdf) / [[Project]](https://spdk.io/doc/ftl.html) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3627703.3629566) / [[Slides]](slides/csal_eurosys_used_for_external.pdf) / [[Project]](https://spdk.io/doc/ftl.html)
 
 - **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba ECS Local Disk D3C Service**  
     **Yanbo Zhou**, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak  
