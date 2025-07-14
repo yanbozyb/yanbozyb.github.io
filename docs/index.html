@@ -123,10 +123,9 @@
     <div id="third-column" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1 1 auto; margin-left: 2.5rem;">
         <span style="font-weight: 500;">Research Interests:</span>
         <ul>
-<li>Cloud Storage</li>
-<li>Flash Storage</li>
-<li>Computational Storage</li>
-<li>Compute Express Link (CXL)</li>
+<li>Cloud Infrastructure</li>
+<li>Memory and Storage Systems</li>
+<li>System Reliability and Sustainability</li>
 <li>Software/Hardware Co-design</li>
 </ul>
 
@@ -158,15 +157,14 @@ window.addEventListener('resize', adjustMargin);
 window.addEventListener('load', adjustMargin);
 </script>
 
-<p>I am a Ph.D. student in Computer Science at the <a href="https://ucsd.edu/">University of California, San Diego</a> and a member of <a href="https://www.nvsl.io/">Non-Volatile Systems Laboratory</a>. My advisor is Professor <a href="https://swanson.ucsd.edu/">Steven Swanson</a>. I have broad interests in storage and memory from devices to systems and to cloud.</p>
-<p>Before starting my Ph.D., I spent four years working at <strong>Alibaba Cloud</strong> (2019 - 2023) where I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products at Alibaba Cloud. A well-known product I led is <a href="https://www.alibabacloud.com/help/en/elastic-compute-service/latest/big-data-instance-families#section-9in-q1s-mqb">D3C Instance</a> that is designed for big data services with large-capacity and high-performance local storage. We designed this service with high-density QLC NAND flash and a <a href="https://www.solidigm.com/products/technology/cloud-storage-acceleration-layer-write-shaping-csal.html">Cloud Storage Acceleration Layer (CSAL)</a> in collaboration with <strong>Solidigm</strong>. Another significant project I made is <a href="https://help.aliyun.com/document_detail/416273.html">ESSD-PLX</a> which is the fastest cloud disk of Alibaba Cloud (with three million random IOPS and 30us end-to-end latency). To achieve the performance goal, I contributed to a distributed persistent memory cache from scratch.</p>
-<p>I was also one of the founding members of <a href="https://spdk.io/">SPDK</a> China team at <strong>Intel</strong> where I spent two years working as an intern (2017-2019). I was fortunate to work with SPDK members on several storage projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to practical cloud system like Alibaba Cloud.</p>
+<p>I am a Ph.D. student in Computer Science at <a href="https://ucsd.edu/">UC San Diego</a>, advised by Professor <a href="https://swanson.ucsd.edu/">Steven Swanson</a>. My research spans the full memory and storage stack, from low-level hardware to systems software and large-scale cloud infrastructure.</p>
+<p>Before my Ph.D., I was a Staff Engineer at <strong>Alibaba Cloud</strong> (2019 - 2023) where I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products at Alibaba Cloud. A well-known product I led is <a href="https://www.alibabacloud.com/help/en/elastic-compute-service/latest/big-data-instance-families#section-9in-q1s-mqb">D3C Instance</a> that is designed for big data services with large-capacity and high-performance local storage. We designed this service with high-density QLC NAND flash and a <a href="https://www.solidigm.com/products/technology/cloud-storage-acceleration-layer-write-shaping-csal.html">Cloud Storage Acceleration Layer (CSAL)</a> in collaboration with <strong>Solidigm</strong>. Another significant project I made is <a href="https://help.aliyun.com/document_detail/416273.html">ESSD-PLX</a> which is the fastest cloud disk of Alibaba Cloud (with three million random IOPS and 30us end-to-end latency). To achieve the performance goal, I designed a distributed persistent memory cache from scratch.</p>
+<p>I was also one of the founding members of <a href="https://spdk.io/">SPDK</a> China team at <strong>Intel</strong>  where I interned from 2017 to 2018. I was fortunate to work with SPDK members on several storage projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to large-scale cloud systems like Alibaba Cloud.</p>
 <h2 id="recent-updates" style="font-weight: 600; color: ZgotmplZ">Recent Updates</h2>
 <ul>
-<li>[Jun. 2024] Work with Global Open-ecoSystem Team (GOST) of Samsung Semiconductor in this summer.</li>
-<li>[Apr. 2024] Received student grant from EuroSys to attend the conference. Thanks EuroSys orgnization.</li>
-<li>[Sep. 2023] Start my Ph.D. at University of California, San Diego since this month.</li>
-<li>[Aug. 2023] <em>CSAL: the Next-Gen Local Disks for the Cloud</em> has been accepted by <a href="https://2024.eurosys.org/">EuroSys'24</a>.</li>
+<li>[Jun. 2025] Joined Samsung Global Open-EcoSystem Team (GOST) as a research intern again this summer!</li>
+<li>[Jun. 2024] Joined Samsung Global Open-EcoSystem Team (GOST) as a research intern this summer!</li>
+<li>[Sep. 2023] Joined UC San Diego as a Ph.D. student in Computer Science!</li>
 </ul>
 <h2 id="publications" style="font-weight: 600; color: ZgotmplZ">Publications</h2>
 <!-- raw HTML omitted -->
@@ -175,17 +173,16 @@ window.addEventListener('load', adjustMargin);
 <p><strong>CSAL: the Next-Gen Local Disks for the Cloud</strong><br>
 <strong>Yanbo Zhou</strong>, Erci Xu, Li Zhang, Kapil Karkra, Mariusz Barczak, Wayne Gao, Wojciech Malikowski, Mateusz Kozlowski, Łukasz Łasek, Ruiming Lu, Feng, Yang, Lilong Huang, Xiaolu Zhang, Keqiang Niu, Jiaji Zhu, Jiesheng Wu<br>
 <em>The European Conference on Computer Systems (EuroSys)</em>, 2024.<br>
-<span style="color: blue;">Two artifact badges (available and functional) received</span>
+<span style="color: blue;"> Source code of CSAL has been upstreamed into SPDK </span>
 <br>
-<span style="color: blue;">Source code of CSAL has been upstreamed into SPDK </span>
-<br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3627703.3629566">[Paper]</a> / <a href="slides/csal_eurosys_used_for_external.pdf">[Slides]</a> / <a href="https://spdk.io/doc/ftl.html">[Project]</a></p>
+<a href="paper/csal_eurosys.pdf">[Paper]</a> / <a href="slides/csal_eurosys_used_for_external.pdf">[Slides]</a> / <a href="https://spdk.io/doc/ftl.html">[Project]</a> / <a href="https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/">[Press]</a><br>
+[Talks from my collaborators: <a href="https://www.youtube.com/watch?v=uLFYkoJaYpM">Tech Field Day'22</a>, <a href="https://www.youtube.com/watch?v=tAdQC5G0S8o">Tech Field Day'23</a>, <a href="https://www.youtube.com/watch?v=qeNBSjGq0dA">SNIA SDC'22</a>, <a href="https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/">SNIA SDC'23</a>]</p>
 </li>
 <li>
 <p><strong>A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba ECS Local Disk D3C Service</strong><br>
 <strong>Yanbo Zhou</strong>, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak<br>
 <em>Intel White Paper</em>, 2023<br>
-<a href="https://www.intel.com/content/www/us/en/content-details/765062/a-media-aware-cloud-storage-acceleration-layer-csal-cache-solution-with-intel-optane-ssds-for-alibaba-ecs-local-disk-d3c-service.html">[Paper]</a></p>
+<a href="paper/csal_white_paper.pdf">[Paper]</a></p>
 </li>
 <li>
 <p><strong>Spool: Reliable Virtualized NVMe Storage Pool in Public Cloud Infrastructure</strong><br>
@@ -211,15 +208,13 @@ Ziye Yang, Changpeng Liu, <strong>Yanbo Zhou</strong>, Xiaodong Liu, Gang Cao<br
 <ul>
 <li>
 <p><strong>Best SPDK Practices: Lessons from Five Years of Storage Evolution in Alibaba Cloud</strong><br>
-<strong>Yanbo Zhou</strong><br>
 <em>SPDK PRC Virtual Forum</em>, 2023.<br>
-<a href="https://www.youtube.com/watch?v=--bw0ngV-po">[Talk - Chinese]</a></p>
+<a href="slides/Alibaba_spdk_practice.pdf">[Slides]</a> / <a href="https://www.youtube.com/watch?v=--bw0ngV-po">[Talk - Chinese]</a></p>
 </li>
 <li>
 <p><strong>O+Q in the cloud: Removing QLC Write-Amplification through Intel Optane SSD with SPDK WSR</strong><br>
-<strong>Yanbo Zhou</strong><br>
 <em>SPDK PRC Virtual Forum</em>, 2022.<br>
-<a href="https://www.youtube.com/watch?v=DOMPG9IBspE">[Talk - Chinese]</a></p>
+<a href="slides/Alibaba_spdk_wsr.pdf">[Slides]</a> / <a href="https://www.youtube.com/watch?v=DOMPG9IBspE">[Talk - Chinese]</a></p>
 </li>
 </ul>
 <h2 id="book-chapters" style="font-weight: 600; color: ZgotmplZ">Book Chapters</h2>
@@ -228,6 +223,10 @@ Ziye Yang, Changpeng Liu, <strong>Yanbo Zhou</strong>, Xiaodong Liu, Gang Cao<br
 <li><strong>Linux Open Source Storage: from Ceph to Container (Chinese Edition)</strong><br>
 <em>Publishing House of Electronics Industry</em>, 2019.<br>
 <a href="https://www.amazon.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%9A%E5%A4%AA%E7%A0%94%E5%8F%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%BC%96%E8%91%97-ebook/dp/B09PHKJRJ8?language=en_US">[Book Link]</a></li>
+</ul>
+<h2 id="services" style="font-weight: 600; color: ZgotmplZ">Services</h2>
+<ul>
+<li><strong>Artifact Evaluation Committee</strong>: <a href="https://sites.google.com/view/asplos25aec/committee?authuser=0">ASPLOS'25</a>, <a href="https://2025.eurosys.org/artifact-eval-committee.html#pagetop">EuroSys'25</a>, <a href="https://www.usenix.org/conference/fast26#organizers">FAST'26</a></li>
 </ul>
 
 
@@ -238,7 +237,7 @@ Ziye Yang, Changpeng Liu, <strong>Yanbo Zhou</strong>, Xiaodong Liu, Gang Cao<br
   <footer class="Footer">
     <div class="u-wrapper">
       <div class="u-padding">
-        Updated in 2023.
+        Updated in 2025.
       </div>
     </div>
   </footer>
