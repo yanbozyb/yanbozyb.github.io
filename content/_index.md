@@ -26,11 +26,6 @@ Before my Ph.D., I was a Staff Engineer at **Alibaba Cloud** (2019 - 2023) where
 
 I was also one of the founding members of [SPDK](https://spdk.io/) China team at **Intel**  where I interned from 2017 to 2018. I was fortunate to work with SPDK members on several storage projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to large-scale cloud systems like Alibaba Cloud.
 
-{{< colorHead color='black' >}}Recent Updates{{< /colorHead >}}
-- [Jun. 2025] Joined Samsung Global Open-EcoSystem Team (GOST) as a research intern again this summer!
-- [Jun. 2024] Joined Samsung Global Open-EcoSystem Team (GOST) as a research intern this summer!
-- [Sep. 2023] Joined UC San Diego as a Ph.D. student in Computer Science!
-
 {{< colorHead color='black' >}}Publications{{< /colorHead >}}
 <!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
 - **CSAL: the Next-Gen Local Disks for the Cloud**  
