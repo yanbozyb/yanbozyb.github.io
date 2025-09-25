@@ -1,20 +1,15 @@
 ---
-title: Talks
+title: Invited Talks
 #description: My Biography
 #date: 2019-02-28
 ---
+- **Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman**  
+    *AI and Systems Co-Design, Meta*, Sep. 2025.  
 
 - **Best SPDK Practices: Lessons from Five Years of Storage Evolution in Alibaba Cloud**  
-    Yanbo Zhou  
-    In *SPDK PRC Virtual Forum*, 2023.  
-    [[Talk Record - Chinese]](https://www.youtube.com/watch?v=--bw0ngV-po)
-
-- **CSAL: Enabling Unprecedented Performance and Capacity Values with Optane and QLC Flash**  
-    Yanbo Zhou, Kapil Karkra, Qinghua Ye, Li Zhang, Mariusz Barczak, Wojciech Malikowski, Wayne Gao, Greg Scott, Ron Thornburg  
-    In *SNIA Storage Developer Conference, Silicon Valley, CA*, 2022.  
-    [[Slides]](https://storagedeveloper.org/events/agenda/session/358)  
+    *SPDK PRC Virtual Forum*, Dec. 2022.  
+    [[Slides]](slides/Alibaba_spdk_practice.pdf) / [[Talk - Chinese]](https://www.youtube.com/watch?v=--bw0ngV-po)
 
 - **O+Q in the cloud: Removing QLC Write-Amplification through Intel Optane SSD with SPDK WSR**  
-    Yanbo Zhou  
-    In *SPDK PRC Virtual Forum*, 2022.  
-    [[Talk Record - Chinese]](https://www.youtube.com/watch?v=DOMPG9IBspE)
+    *SPDK PRC Virtual Forum*, Dec. 2021.  
+    [[Slides]](slides/Alibaba_spdk_wsr.pdf) / [[Talk - Chinese]](https://www.youtube.com/watch?v=DOMPG9IBspE)

@@ -1,5 +1,5 @@
 baseURL: 'https://acsweb.ucsd.edu/~yaz093/'
-title: Home | Yanbo Zhou
+title: Yanbo Zhou
 author: Yanbo Zhou
 languageCode: en-us
 pygmentsCodeFences: true
@@ -43,12 +43,15 @@ params:
 
 menu:
   nav:
+    - name: Home
+      url: "/"
+      weight: 1
     - name: Publications
-      url: "#publications"
+      url: "/publications/"
       weight: 1
     - name: Talks
-      url: "#invited-talks"
+      url: "/talks/"
       weight: 2
-    - name: Books
-      url: "#book-chapters"
+    - name: Others
+      url: "/others/"
       weight: 3
