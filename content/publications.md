@@ -14,13 +14,13 @@ description: Publications
     **Yanbo Zhou**, Erci Xu, Li Zhang, Kapil Karkra, Mariusz Barczak, Wayne Gao, Wojciech Malikowski, Mateusz Kozlowski, Łukasz Łasek, Ruiming Lu, Feng, Yang, Lilong Huang, Xiaolu Zhang, Keqiang Niu, Jiaji Zhu, Jiesheng Wu  
     *The European Conference on Computer Systems (EuroSys)*, 2024.  
     {{< colorBody >}} Source code of CSAL has been upstreamed into SPDK {{< /colorBody >}}  
-    [[Paper]](paper/csal_eurosys.pdf) / [[Slides]](slides/csal_eurosys_used_for_external.pdf) / [[Project]](https://spdk.io/doc/ftl.html) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)  
+    [[Paper]](../paper/csal_eurosys.pdf) / [[Slides]](../slides/csal_eurosys_used_for_external.pdf) / [[Project]](https://spdk.io/doc/ftl.html) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)  
     [Talks from my collaborators: [Tech Field Day'22](https://www.youtube.com/watch?v=uLFYkoJaYpM), [Tech Field Day'23](https://www.youtube.com/watch?v=tAdQC5G0S8o), [SNIA SDC'22](https://www.youtube.com/watch?v=qeNBSjGq0dA), [SNIA SDC'23](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)]
 
-- **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba ECS Local Disk D3C Service**  
+- **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba EBS Local Disk D3C Service**  
     **Yanbo Zhou**, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak  
     *Intel White Paper*, 2023  
-    [[Paper]](paper/csal_white_paper.pdf)
+    [[Paper]](../paper/csal_white_paper.pdf)
 
 - **Spool: Reliable Virtualized NVMe Storage Pool in Public Cloud Infrastructure**  
     Shuai Xue, Shang Zhao, Quan Chen, Gang Deng, Zheng Liu, Jie Zhang, Zhuo Song, Tao Ma, Yong Yang, **Yanbo Zhou**, Keqiang Niu, Sijie Sun, Minyi Guo  
