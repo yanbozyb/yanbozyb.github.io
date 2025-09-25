@@ -10,24 +10,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-  <meta name="description" content="Publications">
+  <meta name="description" content="My Biography">
 
 
 <meta name="color-scheme" content="light dark">
 
 
-  <meta itemprop="name" content="Publications">
-<meta itemprop="description" content="Publications">
+  <meta itemprop="name" content="">
+<meta itemprop="description" content="My Biography">
 
-<meta itemprop="wordCount" content="285">
+<meta itemprop="wordCount" content="582">
 <meta itemprop="keywords" content="" />
 
 
 
-  <meta property="og:title" content="Publications" />
-<meta property="og:description" content="Publications" />
+  <meta property="og:title" content="" />
+<meta property="og:description" content="My Biography" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://acsweb.ucsd.edu/~yaz093/publications/" /><meta property="article:section" content="" />
+<meta property="og:url" content="https://acsweb.ucsd.edu/~yaz093/index_old/" /><meta property="article:section" content="" />
 
 
 
@@ -35,14 +35,14 @@
 
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Publications"/>
-<meta name="twitter:description" content="Publications"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="My Biography"/>
 
 
 
 <meta name="generator" content="Hugo 0.114.1">
-  <title>Publications | Yanbo Zhou</title>
-  <link rel="canonical" href="https://acsweb.ucsd.edu/~yaz093/publications/">
+  <title>Yanbo Zhou</title>
+  <link rel="canonical" href="https://acsweb.ucsd.edu/~yaz093/index_old/">
 
 
   
@@ -118,11 +118,64 @@
   <article>
     <header class="Heading">
   <h2 class="Heading-title">
-    <a class="Heading-link u-clickable" href="/~yaz093/publications/" rel="bookmark">Publications</a>
+    <a class="Heading-link u-clickable" href="/~yaz093/index_old/" rel="bookmark"></a>
   </h2>
   
 </header>
-    <h2 id="conferences" style="font-weight: 400; color: ZgotmplZ">Conferences</h2>
+    <p><code> </code></p>
+<!-- raw HTML omitted -->
+<div id="flex-container" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-top: 1.6rem;">
+    <img src="my3.jpg" alt="xxx" style="max-width: 100%; width: 12rem; flex: 0 1 auto; margin-right: 2.5rem;">
+    
+    <div id="second-column" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1 1 auto;">
+        <span style="font-size: 1.6rem; display: block; margin-bottom: 0; font-weight: 500;">Yanbo Zhou</span>
+        <p>Ph.D. Student<br>
+<a href="https://www.nvsl.io/">Non-Volatile Systems Lab (NVSL)</a><br>
+<a href="https://ucsd.edu/">University of California, San Diego</a></p>
+<p><a href="mailto:yaz093@ucsd.edu">Email</a> / <a href="https://www.linkedin.com/in/yanbo-zhou-b37632291/">Linkedin</a> / <a href="https://scholar.google.com/citations?hl=en&amp;user=T5KZshEAAAAJ">Google Scholar</a></p>
+
+    </div>
+    <div id="third-column" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1 1 auto; margin-left: 2.5rem;">
+        <span style="font-weight: 500;">Research Interests:</span>
+        <ul>
+<li>Cloud Infrastructure</li>
+<li>Memory and Storage Systems</li>
+<li>System Reliability and Sustainability</li>
+<li>Software/Hardware Co-design</li>
+</ul>
+
+    </div>
+</div>
+
+<script>
+function adjustMargin() {
+    const container = document.getElementById('flex-container');
+    const secondColumn = document.getElementById('second-column');
+    const thirdColumn = document.getElementById('third-column');
+
+    
+    if (thirdColumn.offsetTop > container.offsetTop) {
+        thirdColumn.style.marginLeft = '0';
+    } else {
+        thirdColumn.style.marginLeft = '2.5rem';
+    }
+
+    
+    if (secondColumn.offsetTop > container.offsetTop) {
+        secondColumn.style.marginTop = '1rem';  
+    } else {
+        secondColumn.style.marginTop = '0';
+    }
+}
+
+window.addEventListener('resize', adjustMargin);
+window.addEventListener('load', adjustMargin);
+</script>
+
+<p>I am a Ph.D. student in Computer Science at <a href="https://ucsd.edu/">UC San Diego</a>, advised by Professor <a href="https://swanson.ucsd.edu/">Steven Swanson</a>. My research spans the full memory and storage stack, from low-level hardware to systems software and large-scale cloud infrastructure.</p>
+<p>Before my Ph.D., I was a Staff Engineer at <strong>Alibaba Cloud</strong> (2019 - 2023) where I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products at Alibaba Cloud. A well-known product I led is <a href="https://www.alibabacloud.com/help/en/elastic-compute-service/latest/big-data-instance-families#section-9in-q1s-mqb">D3C Instance</a> that is designed for big data services with large-capacity and high-performance local storage. We designed this service with high-density QLC NAND flash and a <a href="https://www.solidigm.com/products/technology/cloud-storage-acceleration-layer-write-shaping-csal.html">Cloud Storage Acceleration Layer (CSAL)</a> in collaboration with <strong>Solidigm</strong>. Another significant project I made is <a href="https://help.aliyun.com/document_detail/416273.html">ESSD-PLX</a> which is the fastest cloud disk of Alibaba Cloud (with three million random IOPS and 30us end-to-end latency). To achieve the performance goal, I designed a distributed persistent memory cache from scratch.</p>
+<p>I was also one of the founding members of <a href="https://spdk.io/">SPDK</a> China team at <strong>Intel</strong>  where I interned from 2017 to 2018. I was fortunate to work with SPDK members on several storage projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to large-scale cloud systems like Alibaba Cloud.</p>
+<h2 id="publications" style="font-weight: 600; color: ZgotmplZ">Publications</h2>
 <!-- raw HTML omitted -->
 <ul>
 <li>
@@ -165,12 +218,29 @@ Ziye Yang, Changpeng Liu, <strong>Yanbo Zhou</strong>, Xiaodong Liu, Gang Cao<br
 / <a href="https://spdk.io/doc/vhost.html">[Project]</a></p>
 </li>
 </ul>
-<h2 id="book-chapters" style="font-weight: 400; color: ZgotmplZ">Book Chapters</h2>
+<h2 id="invited-talks" style="font-weight: 600; color: ZgotmplZ">Invited Talks</h2>
+<ul>
+<li>
+<p><strong>Best SPDK Practices: Lessons from Five Years of Storage Evolution in Alibaba Cloud</strong><br>
+<em>SPDK PRC Virtual Forum</em>, 2023.<br>
+<a href="slides/Alibaba_spdk_practice.pdf">[Slides]</a> / <a href="https://www.youtube.com/watch?v=--bw0ngV-po">[Talk - Chinese]</a></p>
+</li>
+<li>
+<p><strong>O+Q in the cloud: Removing QLC Write-Amplification through Intel Optane SSD with SPDK WSR</strong><br>
+<em>SPDK PRC Virtual Forum</em>, 2022.<br>
+<a href="slides/Alibaba_spdk_wsr.pdf">[Slides]</a> / <a href="https://www.youtube.com/watch?v=DOMPG9IBspE">[Talk - Chinese]</a></p>
+</li>
+</ul>
+<h2 id="book-chapters" style="font-weight: 600; color: ZgotmplZ">Book Chapters</h2>
 <!-- raw HTML omitted -->
 <ul>
 <li><strong>Linux Open Source Storage: from Ceph to Container (Chinese Edition)</strong><br>
 <em>Publishing House of Electronics Industry</em>, 2019.<br>
 <a href="https://www.amazon.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%9A%E5%A4%AA%E7%A0%94%E5%8F%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%BC%96%E8%91%97-ebook/dp/B09PHKJRJ8?language=en_US">[Book Link]</a></li>
+</ul>
+<h2 id="services" style="font-weight: 600; color: ZgotmplZ">Services</h2>
+<ul>
+<li><strong>Artifact Evaluation Committee</strong>: <a href="https://sites.google.com/view/asplos25aec/committee?authuser=0">ASPLOS'25</a>, <a href="https://2025.eurosys.org/artifact-eval-committee.html#pagetop">EuroSys'25</a>, <a href="https://www.usenix.org/conference/fast26#organizers">FAST'26</a></li>
 </ul>
 
     
