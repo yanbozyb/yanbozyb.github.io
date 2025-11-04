@@ -5,6 +5,7 @@ title: Invited Talks
 ---
 - **Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman**  
     *AI and Systems Co-Design, Meta*, Sep. 2025.  
+    [[Slides]](../slides/Sandman_slides.pdf)
 
 - **Best SPDK Practices: Lessons from Five Years of Storage Evolution in Alibaba Cloud**  
     *SPDK PRC Virtual Forum*, Dec. 2022.  
