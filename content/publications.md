@@ -6,6 +6,10 @@ description: Publications
 
 {{< colorHeadLight color='black' >}}Conferences{{< /colorHeadLight >}}
 <!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
+- **Here, There and Everywhere: The Past, the Present and the Future of Local Storage in Cloud**  
+    Leping Yang, **Yanbo Zhou**, Gong Zeng, Li Zhang, Saisai Zhang, Ruilin Wu, Chaoyang Sun, Shiyi Luo, Wenrui Li, Keqiang Niu, Xiaolu Zhang, Junping Wu, Jiaji Zhu, Jiesheng Wu, Mariusz Barczak, Wayne Gao, Ruiming Lu, Erci Xu, Guangtao Xue  
+    *USENIX Conference on File and Storage Technologies (FAST)*, 2026.  
+
 - **Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman**  
     **Yanbo Zhou**, Erci Xu, Anisa Su, Jim Harris, Adam Manzanares, Steven Swanson  
     *The Symposium on Operating Systems Principles (SOSP)*, 2025.  
@@ -17,11 +21,6 @@ description: Publications
     {{< colorBody >}} Source code of CSAL has been upstreamed into SPDK {{< /colorBody >}}  
     [[Paper]](../paper/csal_eurosys.pdf) / [[Slides]](../slides/csal_eurosys_used_for_external.pdf) / [[Project]](https://spdk.io/doc/ftl.html) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)  
     [Talks from my collaborators: [Tech Field Day'22](https://www.youtube.com/watch?v=uLFYkoJaYpM), [Tech Field Day'23](https://www.youtube.com/watch?v=tAdQC5G0S8o), [SNIA SDC'22](https://www.youtube.com/watch?v=qeNBSjGq0dA), [SNIA SDC'23](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)]
-
-- **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba EBS Local Disk D3C Service**  
-    **Yanbo Zhou**, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak  
-    *Intel White Paper*, 2023  
-    [[Paper]](../paper/csal_white_paper.pdf)
 
 - **Spool: Reliable Virtualized NVMe Storage Pool in Public Cloud Infrastructure**  
     Shuai Xue, Shang Zhao, Quan Chen, Gang Deng, Zheng Liu, Jie Zhang, Zhuo Song, Tao Ma, Yong Yang, **Yanbo Zhou**, Keqiang Niu, Sijie Sun, Minyi Guo  
@@ -44,3 +43,9 @@ description: Publications
 - **Linux Open Source Storage: from Ceph to Container (Chinese Edition)**  
     *Publishing House of Electronics Industry*, 2019.  
     [[Book Link]](https://www.amazon.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%9A%E5%A4%AA%E7%A0%94%E5%8F%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%BC%96%E8%91%97-ebook/dp/B09PHKJRJ8?language=en_US)
+
+{{< colorHeadLight color='black' >}}Others{{< /colorHeadLight >}}
+- **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba EBS Local Disk D3C Service**  
+    **Yanbo Zhou**, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak  
+    *Intel White Paper*, 2023  
+    [[Paper]](../paper/csal_white_paper.pdf)
