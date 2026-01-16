@@ -1,5 +1,5 @@
 ---
-title: Invited Talks
+title: Talks
 #description: My Biography
 #date: 2019-02-28
 ---

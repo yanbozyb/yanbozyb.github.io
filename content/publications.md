@@ -9,6 +9,8 @@ description: Publications
 - **Here, There and Everywhere: The Past, the Present and the Future of Local Storage in Cloud**  
     Leping Yang, **Yanbo Zhou**, Gong Zeng, Li Zhang, Saisai Zhang, Ruilin Wu, Chaoyang Sun, Shiyi Luo, Wenrui Li, Keqiang Niu, Xiaolu Zhang, Junping Wu, Jiaji Zhu, Jiesheng Wu, Mariusz Barczak, Wayne Gao, Ruiming Lu, Erci Xu, Guangtao Xue  
     *USENIX Conference on File and Storage Technologies (FAST)*, 2026.  
+    {{< colorBody >}} Deployed Systems Track {{< /colorBody >}}  
+    [[Paper]](https://www.usenix.org/conference/fast26/presentation/yang)  
 
 - **Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman**  
     **Yanbo Zhou**, Erci Xu, Anisa Su, Jim Harris, Adam Manzanares, Steven Swanson  
@@ -18,8 +20,9 @@ description: Publications
 - **CSAL: the Next-Gen Local Disks for the Cloud**  
     **Yanbo Zhou**, Erci Xu, Li Zhang, Kapil Karkra, Mariusz Barczak, Wayne Gao, Wojciech Malikowski, Mateusz Kozlowski, Łukasz Łasek, Ruiming Lu, Feng, Yang, Lilong Huang, Xiaolu Zhang, Keqiang Niu, Jiaji Zhu, Jiesheng Wu  
     *The European Conference on Computer Systems (EuroSys)*, 2024.  
-    {{< colorBody >}} Source code of CSAL has been upstreamed into SPDK {{< /colorBody >}}  
-    [[Paper]](../paper/csal_eurosys.pdf) / [[Slides]](../slides/csal_eurosys_used_for_external.pdf) / [[Project]](https://spdk.io/doc/ftl.html) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)  
+    {{< colorBody >}} CSAL has been upstreamed into SPDK {{< /colorBody >}} (Check our [Project Page](https://spdk.io/doc/ftl.html))  
+    {{< colorBody >}} CSAL has been deployed in production cloud infrastructure {{< /colorBody >}} (Check our [White Paper](../paper/csal_white_paper.pdf))    
+    [[Paper]](../paper/csal_eurosys.pdf) / [[Slides]](../slides/csal_eurosys_used_for_external.pdf) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)  
     [Talks from my collaborators: [Tech Field Day'22](https://www.youtube.com/watch?v=uLFYkoJaYpM), [Tech Field Day'23](https://www.youtube.com/watch?v=tAdQC5G0S8o), [SNIA SDC'22](https://www.youtube.com/watch?v=qeNBSjGq0dA), [SNIA SDC'23](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)]
 
 - **Spool: Reliable Virtualized NVMe Storage Pool in Public Cloud Infrastructure**  
@@ -36,7 +39,7 @@ description: Publications
     Ziye Yang, Changpeng Liu, **Yanbo Zhou**, Xiaodong Liu, Gang Cao  
     *IEEE International Symposium on Cloud and Services Computing (SC2)*, 2018.  
     [[Paper]](https://ieeexplore.ieee.org/document/8567374) / [[Slides]](https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Accelerating-NVMe-I_Os-in-Virtual-Machine-via-SPDK-vhost_-Solution-Ziye-Yang-_-Changpeng-Liu-Intel.pdf)
-    / [[Project]](https://spdk.io/doc/vhost.html)
+    / [[Project Page]](https://spdk.io/doc/vhost.html)
 
 {{< colorHeadLight color='black' >}}Book Chapters{{< /colorHeadLight >}}
 <!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
