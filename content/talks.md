@@ -4,8 +4,9 @@ title: Talks
 #date: 2019-02-28
 ---
 - **Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman**  
+    *ACE Center for Evolvable Computing*, Dec. 2025.  
     *AI and Systems Co-Design, Meta*, Sep. 2025.  
-    [[Slides]](../slides/Sandman_slides.pdf)
+    [[Slides]](../slides/sandman_updated.pdf)
 
 - **Best SPDK Practices: Lessons from Five Years of Storage Evolution in Alibaba Cloud**  
     *SPDK PRC Virtual Forum*, Dec. 2022.  

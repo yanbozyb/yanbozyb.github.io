@@ -15,7 +15,7 @@ description: Publications
 - **Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman**  
     **Yanbo Zhou**, Erci Xu, Anisa Su, Jim Harris, Adam Manzanares, Steven Swanson  
     *The Symposium on Operating Systems Principles (SOSP)*, 2025.  
-    [[Paper]](../paper/sandman_sosp.pdf) / [[Slides]](../slides/Sandman_SOSP_slides.pdf)
+    [[Paper]](../paper/sandman_sosp.pdf) / [[Slides]](../slides/sandman_updated.pdf)
 
 - **CSAL: the Next-Gen Local Disks for the Cloud**  
     **Yanbo Zhou**, Erci Xu, Li Zhang, Kapil Karkra, Mariusz Barczak, Wayne Gao, Wojciech Malikowski, Mateusz Kozlowski, Łukasz Łasek, Ruiming Lu, Feng, Yang, Lilong Huang, Xiaolu Zhang, Keqiang Niu, Jiaji Zhu, Jiesheng Wu  
