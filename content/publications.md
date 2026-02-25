@@ -9,7 +9,7 @@ description: Publications
 - **Here, There and Everywhere: The Past, the Present and the Future of Local Storage in Cloud**  
     Leping Yang, **Yanbo Zhou**, Gong Zeng, Li Zhang, Saisai Zhang, Ruilin Wu, Chaoyang Sun, Shiyi Luo, Wenrui Li, Keqiang Niu, Xiaolu Zhang, Junping Wu, Jiaji Zhu, Jiesheng Wu, Mariusz Barczak, Wayne Gao, Ruiming Lu, Erci Xu, Guangtao Xue  
     *USENIX Conference on File and Storage Technologies (FAST)*, 2026.  
-    {{< colorBody >}} Deployed Systems Track {{< /colorBody >}}  
+    {{< colorBody >}} Best Paper Award {{< /colorBody >}}  
     [[Paper]](https://www.usenix.org/conference/fast26/presentation/yang)  
 
 - **Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman**  
