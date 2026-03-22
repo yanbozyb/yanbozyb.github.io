@@ -1,4 +1,4 @@
-baseURL: 'https://acsweb.ucsd.edu/~yaz093/'
+baseURL: 'https://yanbozyb.github.io/'
 title: Yanbo Zhou
 author: Yanbo Zhou
 languageCode: en-us
@@ -19,7 +19,7 @@ params:
   #footer: Except where otherwise noted, content on this site is licensed under a
   #  <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
   #  Creative Commons Attribution 4.0 International License</a>.
-  footer: Updated in 2025.
+  footer: Updated in 2026.
   rss: >-
     To subscribe to this RSS feed, copy the address in the address bar and paste
     it into your favorite feed reader.
