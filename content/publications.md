@@ -47,7 +47,7 @@ description: Publications
     Publishing House of Electronics Industry, 2019.  
     [[Book Link]](https://www.amazon.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%9A%E5%A4%AA%E7%A0%94%E5%8F%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%BC%96%E8%91%97-ebook/dp/B09PHKJRJ8?language=en_US)
 
-{{< colorHeadLight color='black' >}}Technical Reports{{< /colorHeadLight >}}
+{{< colorHeadLight color='black' >}}Tech Reports{{< /colorHeadLight >}}
 - **A Media-Aware Cloud Storage Acceleration Layer (CSAL) Cache Solution with Intel Optane SSDs for Alibaba EBS Local Disk D3C Service**  
     **Yanbo Zhou**, Li Zhang, Kapil Karkra, Wayne Gao, Chunhong Mao, Mariusz Barczak  
     Intel White Paper, 2023  
