@@ -6,6 +6,10 @@ description: Publications
 
 {{< colorHeadLight color='black' >}}Conferences{{< /colorHeadLight >}}
 <!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
+- **Break on Through to the Other Side: Pooling Memory Elastically with RamRyder**  
+    **Yanbo Zhou**, Erci Xu, Dongjoo Seo, Adam Manzanares, Steven Swanson  
+    USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2026.
+
 - **Here, There and Everywhere: The Past, the Present and the Future of Local Storage in Cloud**  
     Leping Yang, **Yanbo Zhou**, Gong Zeng, Li Zhang, Saisai Zhang, Ruilin Wu, Chaoyang Sun, Shiyi Luo, Wenrui Li, Keqiang Niu, Xiaolu Zhang, Junping Wu, Jiaji Zhu, Jiesheng Wu, Mariusz Barczak, Wayne Gao, Ruiming Lu, Erci Xu, Guangtao Xue  
     USENIX Conference on File and Storage Technologies (FAST), 2026.  
