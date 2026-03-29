@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="https://yanbozyb.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Yanbo Zhou | Homepage</title>
+    <title>Categories on Yanbo Zhou</title>
     <link>https://yanbozyb.github.io/categories/</link>
-    <description>Recent content in Categories on Yanbo Zhou | Homepage</description>
+    <description>Recent content in Categories on Yanbo Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://yanbozyb.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
