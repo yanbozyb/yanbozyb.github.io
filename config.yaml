@@ -1,5 +1,5 @@
 baseURL: 'https://yanbozyb.github.io/'
-title: Yanbo Zhou
+title: Yanbo Zhou | Homepage
 author: Yanbo Zhou
 languageCode: en-us
 pygmentsCodeFences: true
@@ -43,9 +43,9 @@ params:
 
 menu:
   nav:
-    - name: Home
-      url: "/"
-      weight: 1
+#    - name: Home
+#      url: "/"
+#      weight: 1
     - name: Publications
       url: "/publications/"
       weight: 1
