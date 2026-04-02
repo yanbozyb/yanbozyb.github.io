@@ -6,6 +6,9 @@ pygmentsCodeFences: true
 enableRobotsTXT: true
 theme: hugo-flex
 publishDir: docs
+disableKinds:
+  - taxonomy
+  - term
 
 permalinks:
   posts: '/:filename/'
@@ -15,7 +18,7 @@ params:
   #color: "#005587"
   color: "#000000"
   width: 63rem
-  description: Yanbo Zhou
+  description: Personal homepage of Yanbo Zhou, a Ph.D. student in Computer Science at UC San Diego working on memory, storage, and cloud infrastructure systems.
   #footer: Except where otherwise noted, content on this site is licensed under a
   #  <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
   #  Creative Commons Attribution 4.0 International License</a>.
@@ -28,6 +31,16 @@ params:
   opengraph: true
   twittercards: true
   summaries: false
+  person:
+    name: Yanbo Zhou
+    jobTitle: Ph.D. Student in Computer Science
+    affiliation: University of California, San Diego
+    lab: Non-Volatile Systems Lab (NVSL)
+    email: yaz093@ucsd.edu
+    image: /my3.jpg
+    sameAs:
+      - https://www.linkedin.com/in/yanbo-zhou-b37632291/
+      - https://scholar.google.com/citations?hl=en&user=T5KZshEAAAAJ
   utterances:
     repo:               # Set to Utterances repo URL to add Utterances comments
     issueterm: pathname

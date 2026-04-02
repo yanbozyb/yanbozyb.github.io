@@ -1,6 +1,7 @@
 ---
-#title: Home
-description: My Biography
+title: Archived Homepage
+description: Archived version of the homepage.
+draft: true
 #date: 2019-02-28
 ---
 ` `

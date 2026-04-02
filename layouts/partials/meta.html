@@ -1,0 +1,92 @@
+{{ $pageTitle := .Title | default site.Title }}
+{{ $pageDescription := "" }}
+{{ with .Description }}
+  {{ $pageDescription = . }}
+{{ else }}
+  {{ if .IsPage }}
+    {{ $pageDescription = .Summary | plainify | htmlUnescape | chomp }}
+  {{ else }}
+    {{ with site.Params.description }}
+      {{ $pageDescription = . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $pageType := "website" }}
+{{ if not .IsHome }}
+  {{ $pageType = "article" }}
+{{ end }}
+<meta charset="utf-8">
+
+{{ if and .IsHome .Paginator.HasPrev }}
+  <meta name="robots" content="noindex, nofollow, noarchive">
+{{ else if .Params.noindex }}
+  <meta name="robots" content="noindex, noarchive">
+{{ end }}
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{{ with $pageDescription }}
+  <meta name="description" content="{{ . }}">
+{{ end }}
+<meta name="color-scheme" content="light dark">
+
+<meta itemprop="name" content="{{ $pageTitle }}">
+{{ with $pageDescription }}
+  <meta itemprop="description" content="{{ . }}">
+{{ end }}
+{{ with site.Params.person.image }}
+  <meta itemprop="image" content="{{ . | absURL }}">
+{{ end }}
+
+<meta property="og:title" content="{{ $pageTitle }}">
+{{ with $pageDescription }}
+  <meta property="og:description" content="{{ . }}">
+{{ end }}
+<meta property="og:type" content="{{ $pageType }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+{{ with site.Params.person.image }}
+  <meta property="og:image" content="{{ . | absURL }}">
+{{ end }}
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ $pageTitle }}">
+{{ with $pageDescription }}
+  <meta name="twitter:description" content="{{ . }}">
+{{ end }}
+{{ with site.Params.person.image }}
+  <meta name="twitter:image" content="{{ . | absURL }}">
+{{ end }}
+
+<link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="shortcut icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+
+{{ $websiteSchema := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "name" site.Title
+  "url" site.BaseURL
+}}
+{{ printf "<script type=\"application/ld+json\">%s</script>" ($websiteSchema | jsonify) | safeHTML }}
+{{ if .IsHome }}
+  {{ $personSchema := dict
+    "@context" "https://schema.org"
+    "@type" "Person"
+    "name" (site.Params.person.name | default site.Title)
+    "url" site.BaseURL
+    "image" (site.Params.person.image | absURL)
+    "jobTitle" site.Params.person.jobTitle
+    "affiliation" (dict
+      "@type" "Organization"
+      "name" site.Params.person.affiliation
+    )
+    "worksFor" (dict
+      "@type" "Organization"
+      "name" site.Params.person.lab
+    )
+    "email" (printf "mailto:%s" site.Params.person.email)
+    "sameAs" site.Params.person.sameAs
+  }}
+  {{ printf "<script type=\"application/ld+json\">%s</script>" ($personSchema | jsonify) | safeHTML }}
+{{ end }}
+
+{{ hugo.Generator }}

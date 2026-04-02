@@ -1,6 +1,6 @@
 ---
-#title: Home
-description: My Biography
+title: Yanbo Zhou
+description: Personal homepage of Yanbo Zhou, a Ph.D. student in Computer Science at UC San Diego researching memory, storage, and cloud infrastructure systems.
 #date: 2019-02-28
 ---
 ` `
@@ -20,7 +20,7 @@ Ph.D. Student
 {{< /example >}}
 
 
-I am a Ph.D. student in Computer Science at [UC San Diego](https://ucsd.edu/), advised by Prof. [Steven Swanson](https://swanson.ucsd.edu/). My research spans multiple aspects of memory and storage systems for cloud infrastructure, including virtualization ([vhost-NVMe, SC2'18](https://ieeexplore.ieee.org/document/8567374)), reliability ([Spool, USENIX ATC'20](https://www.usenix.org/system/files/atc20-xue_0.pdf)), endurance ([CSAL, EuroSys'24](../paper/csal_eurosys.pdf)), sustainability ([Sandman, SOSP'25](../paper/sandman_sosp.pdf)), and DPU design ([Ristretto, FAST'26](https://www.usenix.org/conference/fast26/presentation/yang)). Currenly, I am exploring software-defined memory for data centers (RamRyder, to appear at OSDI'26)
+I am a Ph.D. student in Computer Science at [UC San Diego](https://ucsd.edu/), advised by Prof. [Steven Swanson](https://swanson.ucsd.edu/). My research spans multiple aspects of memory and storage systems for cloud infrastructure, including virtualization ([vhost-NVMe, SC2'18](https://ieeexplore.ieee.org/document/8567374)), reliability ([Spool, USENIX ATC'20](https://www.usenix.org/system/files/atc20-xue_0.pdf)), endurance ([CSAL, EuroSys'24](../paper/csal_eurosys.pdf)), sustainability ([Sandman, SOSP'25](../paper/sandman_sosp.pdf)), and DPU design ([Ristretto, FAST'26](https://www.usenix.org/conference/fast26/presentation/yang)). Currently, I am exploring software-defined memory for data centers (RamRyder, to appear at OSDI'26).
 
 Before my Ph.D., I was a software engineer at **Alibaba Cloud** (2019 - 2023) where I was a founding member of the local storage team. At Alibaba Cloud, I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products. A well-known project I led was [Cloud Storage Acceleration Layer (CSAL)](../paper/csal_eurosys.pdf), which enabled high-density QLC NAND flash deployment in cloud data centers.
 Another significant project I led was an [ASIC/SoC co-designed DPU](https://www.usenix.org/conference/fast26/presentation/yang) for cloud local storage, which received the **Best Paper Award** at USENIX FAST’26.
