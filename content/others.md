@@ -9,7 +9,7 @@ title: Others
   Research Intern, Global Open-ecoSystem Team (GOST), 2024 Summer
 
  - **Alibaba Cloud**, Hangzhou, China   
-  Staff Engineer, Elastic Block Storage (EBS) Team, 2019-2023
+  Software Engineer, Elastic Block Storage (EBS) Team, 2019-2023
 
  - **Intel Corporation**, Shanghai, China  
   Software Engineer Intern, SPDK Team, 2017-2019
