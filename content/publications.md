@@ -5,7 +5,6 @@ description: Publications
 ---
 
 {{< colorHeadLight color='black' >}}Conferences{{< /colorHeadLight >}}
-<!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
 - **Break on Through to the Other Side: Pooling Memory Elastically with RamRyder**  
     **Yanbo Zhou**, Erci Xu, Dongjoo Seo, Adam Manzanares, Steven Swanson  
     USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2026.
@@ -24,9 +23,9 @@ description: Publications
 - **CSAL: the Next-Gen Local Disks for the Cloud**  
     **Yanbo Zhou**, Erci Xu, Li Zhang, Kapil Karkra, Mariusz Barczak, Wayne Gao, Wojciech Malikowski, Mateusz Kozlowski, Łukasz Łasek, Ruiming Lu, Feng, Yang, Lilong Huang, Xiaolu Zhang, Keqiang Niu, Jiaji Zhu, Jiesheng Wu  
     The European Conference on Computer Systems (EuroSys), 2024.  
-    {{< colorBody >}} CSAL has been upstreamed into SPDK {{< /colorBody >}} (Check our [Project Page](https://spdk.io/doc/ftl.html))  
-    {{< colorBody >}} CSAL has been deployed in production cloud infrastructure {{< /colorBody >}} (Check our [White Paper](../paper/csal_white_paper.pdf))    
-    [[Paper]](../paper/csal_eurosys.pdf) / [[Slides]](../slides/csal_eurosys_used_for_external.pdf) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)  
+    {{< colorBody >}} CSAL has been upstreamed into SPDK {{< /colorBody >}} (Check our [Source Code](https://github.com/spdk/spdk/tree/master/lib/ftl))  
+    {{< colorBody >}} CSAL has been deployed in production cloud infrastructure {{< /colorBody >}} (Check our [White Paper](../paper/csal_white_paper.pdf) and [Story](https://news.solidigm.com/en-WW/231383-csal-qlc-game-changer-and-open-source-solution-for-the-future/))    
+    [[Paper]](../paper/csal_eurosys.pdf) / [[Slides]](../slides/csal_eurosys_used_for_external.pdf) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/) / [[Project Page]](https://www.solidigm.com/products/software/csal.html)  
     [Talks from my collaborators: [Tech Field Day'22](https://www.youtube.com/watch?v=uLFYkoJaYpM), [Tech Field Day'23](https://www.youtube.com/watch?v=tAdQC5G0S8o), [SNIA SDC'22](https://www.youtube.com/watch?v=qeNBSjGq0dA), [SNIA SDC'23](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)]
 
 - **Spool: Reliable Virtualized NVMe Storage Pool in Public Cloud Infrastructure**  
@@ -46,7 +45,6 @@ description: Publications
     / [[Project Page]](https://spdk.io/doc/vhost.html)
 
 {{< colorHeadLight color='black' >}}Book Chapters{{< /colorHeadLight >}}
-<!-- * {{< colorHeadSmall color='black' >}}Conference Papers{{< /colorHeadSmall >}} -->
 - **Linux Open Source Storage: from Ceph to Container (Chinese Edition)**  
     Publishing House of Electronics Industry, 2019.  
     [[Book Link]](https://www.amazon.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%9A%E5%A4%AA%E7%A0%94%E5%8F%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%BC%96%E8%91%97-ebook/dp/B09PHKJRJ8?language=en_US)
