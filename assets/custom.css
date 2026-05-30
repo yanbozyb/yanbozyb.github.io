@@ -59,6 +59,49 @@ nav .Banner-link {
   line-height: 1.25;
 }
 
+.color-head-light {
+  color: #000000;
+  font-weight: 400;
+}
+
+/* publication list */
+.pub-item {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: 7rem minmax(0, 1fr);
+  margin: 0 0 1.25rem;
+}
+
+.pub-venue {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.pub-content p {
+  margin: 0;
+}
+
+.pub-award {
+  color: red;
+  font-weight: 600;
+}
+
+.pub-note {
+  color: blue;
+  font-weight: 500;
+}
+
+.name {
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .pub-item {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
+}
+
 /* for linked words */
 a {
   font-weight: normal;
@@ -85,7 +128,3 @@ li {
 html {
   scroll-behavior: smooth;
 }
-
-
-
-

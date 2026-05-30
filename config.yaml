@@ -6,6 +6,10 @@ pygmentsCodeFences: true
 enableRobotsTXT: true
 theme: hugo-flex
 publishDir: docs
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 disableKinds:
   - taxonomy
   - term
