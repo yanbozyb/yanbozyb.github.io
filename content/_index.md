@@ -1,12 +1,11 @@
 ---
 title: Yanbo Zhou
-description: Personal homepage of Yanbo Zhou, a Ph.D. student in Computer Science at UC San Diego researching memory, storage, and cloud infrastructure systems.
-#date: 2019-02-28
+description: Homepage of Yanbo Zhou, a Ph.D. candidate in Computer Science at UC San Diego focusing on memory and storage systems for cloud infrastructure.
 ---
 ` `
 <!-- * is used for splitting context -->
 {{< example src="my3.jpg" alt="xxx" >}}
-Ph.D. Student  
+Ph.D. Candidate  
 [Non-Volatile Systems Lab (NVSL)](https://www.nvsl.io/)  
 [University of California, San Diego](https://ucsd.edu/)  
 
