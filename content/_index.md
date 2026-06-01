@@ -1,6 +1,6 @@
 ---
-title: Yanbo Zhou
-description: Homepage of Yanbo Zhou, a Ph.D. candidate in Computer Science at UC San Diego focusing on memory and storage systems for cloud infrastructure.
+title: Yanbo Zhou | UC San Diego
+description: Yanbo Zhou is a Ph.D. candidate in Computer Science at UC San Diego working on memory and storage systems for cloud infrastructure.
 ---
 ` `
 <!-- * is used for splitting context -->
