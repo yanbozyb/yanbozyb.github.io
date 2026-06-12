@@ -4,6 +4,11 @@ title: Talks
 #date: 2019-02-28
 ---
 {{< colorHeadLight color='black' >}}Talks{{< /colorHeadLight >}}
+- **Break on Through to the Other Side: Pooling Memory Elastically with RamRyder**  
+    UCLA Systems Group, Jun. 2026.  
+    ACE Center for Evolvable Computing, May 2026.  
+    [[Talk]](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo)
+
 - **Here, There and Everywhere: The Past, the Present and the Future of Local Storage in Cloud**  
     AI and Systems Co-Design, Meta, Apr. 2026.  
     USENIX FAST 2026, Feb. 2026.  

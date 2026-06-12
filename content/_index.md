@@ -28,12 +28,13 @@ Another significant project I led was an [ASIC/SoC co-designed DPU](https://www.
 I was also one of the founding members of [SPDK](https://spdk.io/) China team at **Intel** where I interned from 2017 to 2018. I was fortunate to work with SPDK members on several projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to large-scale data centers.
 -->
 {{< colorHeadLight color=black >}}News{{< /colorHeadLight >}}
+- (06/2026) Gave a talk on [RamRyder](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo) at the UCLA Systems Group.
 - (05/2026) Gave a talk on [RamRyder](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo) at the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/).
-- (03/2026) Gave a talk on [Ristretto](../slides/FAST26_presentation.pdf) to the AI and Systems Co-Design team at Meta.
+- (03/2026) Gave a talk on [Ristretto](../slides/FAST26_presentation.pdf) at Meta's AI and Systems Co-Design team.
 - (03/2026) [RamRyder](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo) was accepted to OSDI'26.
 - (03/2026) Gave a talk on [Ristretto](https://www.usenix.org/conference/fast26/presentation/yang) at FAST'26.
 - (03/2025) [Ristretto](https://www.usenix.org/conference/fast26/presentation/yang) received the Best Paper Award at FAST'26.
 - (12/2025) [Ristretto](https://www.usenix.org/conference/fast26/presentation/yang) was accepted to FAST'26.
 - (12/2025) Gave a talk on [Sandman](../slides/sandman_updated.pdf) at the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/).
-- (09/2025) Gave a talk on [Sandman](../slides/sandman_updated.pdf) to the AI and Systems Co-Design team at Meta.
+- (09/2025) Gave a talk on [Sandman](../slides/sandman_updated.pdf) at Meta's AI and Systems Co-Design team.
 - (07/2025) [Sandman](../paper/sandman_sosp.pdf) was accepted to SOSP'25.
