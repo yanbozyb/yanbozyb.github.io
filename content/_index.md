@@ -33,7 +33,7 @@ I was also one of the founding members of [SPDK](https://spdk.io/) China team at
 - (03/2026) Gave a talk on [Ristretto](../slides/FAST26_presentation.pdf) at Meta's AI and Systems Co-Design team.
 - (03/2026) [RamRyder](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo) was accepted to OSDI'26.
 - (03/2026) Gave a talk on [Ristretto](https://www.usenix.org/conference/fast26/presentation/yang) at FAST'26.
-- (03/2025) [Ristretto](https://www.usenix.org/conference/fast26/presentation/yang) received the Best Paper Award at FAST'26.
+- (03/2026) [Ristretto](https://www.usenix.org/conference/fast26/presentation/yang) received the Best Paper Award at FAST'26.
 - (12/2025) [Ristretto](https://www.usenix.org/conference/fast26/presentation/yang) was accepted to FAST'26.
 - (12/2025) Gave a talk on [Sandman](../slides/sandman_updated.pdf) at the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/).
 - (09/2025) Gave a talk on [Sandman](../slides/sandman_updated.pdf) at Meta's AI and Systems Co-Design team.
