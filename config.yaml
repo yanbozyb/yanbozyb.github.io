@@ -1,5 +1,5 @@
 baseURL: 'https://yanbozyb.github.io/'
-title: Yanbo Zhou
+#title: Yanbo Zhou
 author: Yanbo Zhou
 languageCode: en-us
 pygmentsCodeFences: true
@@ -22,7 +22,7 @@ params:
   #color: "#005587"
   color: "#000000"
   width: 63rem
-  description: Personal homepage of Yanbo Zhou, a Ph.D. student in Computer Science at UC San Diego working on memory, storage, and cloud infrastructure systems.
+  description:  Yanbo Zhou is a Ph.D. candidate in Computer Science at UC San Diego working on memory and storage systems for cloud infrastructure.
   #footer: Except where otherwise noted, content on this site is licensed under a
   #  <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
   #  Creative Commons Attribution 4.0 International License</a>.
