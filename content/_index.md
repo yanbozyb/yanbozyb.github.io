@@ -9,7 +9,7 @@ Ph.D. Candidate
 [Non-Volatile Systems Lab (NVSL)](https://www.nvsl.io/)  
 [University of California, San Diego](https://ucsd.edu/)  
 
-[Email](mailto:yaz093@ucsd.edu) / [Linkedin](https://www.linkedin.com/in/yanbo-zhou-b37632291/) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=T5KZshEAAAAJ)  
+[Email](mailto:yaz093@ucsd.edu) / [Linkedin](https://www.linkedin.com/in/yanbo-zhou-b37632291/) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=T5KZshEAAAAJ) / [CV](../cv.pdf)  
 
 *
 - Cloud Infrastructure
