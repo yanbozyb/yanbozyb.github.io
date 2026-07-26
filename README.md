@@ -27,6 +27,16 @@ Images, Twitter tweets, YouTube videos, etc. are inlined via Hugo
 
 ## Deploying
 
+### Updating CV
+
+Pull the latest `cv.pdf` from `git@github.com:yanbozyb/mycv.git` without cloning the whole checkout into this repo:
+
+```powershell
+.\scripts\update-cv.ps1
+```
+
+The script keeps a sparse local cache under `.cache/mycv` and updates `static/cv.pdf`.
+
 Note:
 
 * in the following discussion replace "username" with your GitHub username.
