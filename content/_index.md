@@ -9,7 +9,7 @@ Ph.D. Candidate
 [Non-Volatile Systems Lab (NVSL)](https://www.nvsl.io/)  
 [University of California, San Diego](https://ucsd.edu/)  
 
-[Email](mailto:yaz093@ucsd.edu) / [Linkedin](https://www.linkedin.com/in/yanbo-zhou-b37632291/) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=T5KZshEAAAAJ)  
+[Email](mailto:yaz093@ucsd.edu) / [Linkedin](https://www.linkedin.com/in/yanbo-zhou-b37632291/) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=T5KZshEAAAAJ) / [CV](../cv.pdf)   
 
 *
 - Cloud Infrastructure
@@ -28,8 +28,9 @@ Another significant project I led was an [ASIC/SoC co-designed DPU](https://www.
 I was also one of the founding members of [SPDK](https://spdk.io/) China team at **Intel** where I interned from 2017 to 2018. I was fortunate to work with SPDK members on several projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to large-scale data centers.
 -->
 {{< colorHeadLight color=black >}}News{{< /colorHeadLight >}}
-- (06/2026) Gave a talk on [RamRyder](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo) at the UCLA Systems Group.
-- (05/2026) Gave a talk on [RamRyder](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo) at the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/).
+- (07/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at OSDI'26.
+- (06/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at the UCLA Systems Group.
+- (05/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/).
 - (03/2026) Gave a talk on [Ristretto](../slides/FAST26_presentation.pdf) at Meta's AI and Systems Co-Design team.
 - (03/2026) [RamRyder](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo) was accepted to OSDI'26.
 - (03/2026) Gave a talk on [Ristretto](https://www.usenix.org/conference/fast26/presentation/yang) at FAST'26.
