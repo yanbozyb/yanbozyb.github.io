@@ -10,7 +10,7 @@ description: Publications
 **Break on Through to the Other Side: Pooling Memory Elastically with RamRyder**  
 **<span class="name">Yanbo Zhou</span>**, <span class="name">Erci Xu</span>, <span class="name">Dongjoo Seo</span>, <span class="name">Adam Manzanares</span>, <span class="name">Steven Swanson</span>  
 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2026.  
-[[Paper]](https://www.usenix.org/system/files/osdi26-zhou-yanbo.pdf) / [[Slides]](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) / [[Talk]](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo)
+[[Paper]](https://www.usenix.org/system/files/osdi26-zhou-yanbo.pdf) / [[Slides]](../slides/ramryder_osdi.pdf) / [[Talk]](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo)
 {{< /pub >}}
 
 {{< pub venue="FAST'26" >}}
