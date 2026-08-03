@@ -8,7 +8,7 @@ title: Talks
     OSDI'26, Jul. 2026  
     UCLA Systems Group, Jun. 2026  
     ACE Center for Evolvable Computing, May 2026  
-    [[Slides]](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) / [[Talk]](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo)
+    [[Slides]](../slides/osdi26_slides_11_zhou-yanbo.pdf) / [[Talk]](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo)
 
 - **Here, There and Everywhere: The Past, the Present and the Future of Local Storage in Cloud**  
     AI and Systems Co-Design, Meta, Apr. 2026  
