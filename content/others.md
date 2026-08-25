@@ -4,9 +4,10 @@ title: Others
 #date: 2019-02-28
 ---
 {{< colorHeadLight color='black' >}}Industry Experience{{< /colorHeadLight >}}
-- **Samsung Semiconductor**, San Jose, USA  
-  Research Intern, Global Open-ecoSystem Team (GOST), 2025 Summer  
-  Research Intern, Global Open-ecoSystem Team (GOST), 2024 Summer
+- **Samsung Semiconductor**, San Jose, USA   
+  Research Intern, Global Open-ecoSystem Team (GOST), Summer 2026   
+  Research Intern, Global Open-ecoSystem Team (GOST), Summer 2025   
+  Research Intern, Global Open-ecoSystem Team (GOST), Summer 2024
 
  - **Alibaba Cloud**, Hangzhou, China   
   Software Engineer, Elastic Block Storage (EBS) Team, 2019-2023
