@@ -4,8 +4,7 @@ description: Publications
 #date: 2019-02-28
 ---
 
-{{< colorHeadLight color=black >}}Conferences{{< /colorHeadLight >}}
-
+{{< colorHeadLight color=black >}}Conference Papers{{< /colorHeadLight >}}
 {{< pub venue="OSDI'26" >}}
 **Break on Through to the Other Side: Pooling Memory Elastically with RamRyder**  
 **<span class="name">Yanbo Zhou</span>**, <span class="name">Erci Xu</span>, <span class="name">Dongjoo Seo</span>, <span class="name">Adam Manzanares</span>, <span class="name">Steven Swanson</span>  
@@ -53,11 +52,18 @@ description: Publications
 {{< /pub >}}
 
 {{< pub venue="SC2'18" >}}
-**Accelerating I/Os in virtual machines on physical NVMe SSDs via user space vhost target**  
+**Accelerating I/Os in Virtual Machines on Physical NVMe SSDs via User Space Vhost Target**  
 <span class="name">Ziye Yang</span>, <span class="name">Changpeng Liu</span>, **<span class="name">Yanbo Zhou</span>**, <span class="name">Xiaodong Liu</span>, <span class="name">Gang Cao</span>  
 8th IEEE International Symposium on Cloud and Services Computing (SC2), 2018.  
 [[Paper]](https://ieeexplore.ieee.org/document/8567374) / [[Slides]](https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Accelerating-NVMe-I_Os-in-Virtual-Machine-via-SPDK-vhost_-Solution-Ziye-Yang-_-Changpeng-Liu-Intel.pdf)
 / [[Project Page]](https://spdk.io/doc/vhost.html)
+{{< /pub >}}
+
+{{< colorHeadLight color=black >}}Journal Articles{{< /colorHeadLight >}}
+{{< pub venue="TOS'26" >}}
+**Cloud Local Storage Goes Elastic: From Hardware Offloading to Hybrid Architecture**  
+<span class="name">Leping Yang</span>, **<span class="name">Yanbo Zhou</span>**, <span class="name">Gong Zeng</span>, <span class="name">Li Zhang</span>, <span class="name">Saisai Zhang</span>, <span class="name">Ruilin Wu</span>, <span class="name">Chaoyang Sun</span>, <span class="name">Shiyi Luo</span>, <span class="name">Wenrui Li</span>, <span class="name">Keqiang Niu</span>, <span class="name">Xiaolu Zhang</span>, <span class="name">Junping Wu</span>, <span class="name">Jiaji Zhu</span>, <span class="name">Jiesheng Wu</span>, <span class="name">Mariusz Barczak</span>, <span class="name">Wayne Gao</span>, <span class="name">Ruiming Lu</span>, <span class="name">Erci Xu</span>, <span class="name">Guangtao Xue</span>  
+ACM Transactions on Storage (TOS), 2026.
 {{< /pub >}}
 
 {{< colorHeadLight color=black >}}Book Chapters{{< /colorHeadLight >}}
