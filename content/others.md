@@ -5,15 +5,15 @@ title: Others
 ---
 {{< colorHeadLight color='black' >}}Industry Experience{{< /colorHeadLight >}}
 - **Samsung Semiconductor**, San Jose, USA   
-  Research Intern, Global Open-ecoSystem Team (GOST), Summer 2026   
-  Research Intern, Global Open-ecoSystem Team (GOST), Summer 2025   
-  Research Intern, Global Open-ecoSystem Team (GOST), Summer 2024
+  Software Engineering Intern, Global Open-ecoSystem Team (GOST), Summer 2026   
+  Software Engineering Intern, Global Open-ecoSystem Team (GOST), Summer 2025   
+  Software Engineering Intern, Global Open-ecoSystem Team (GOST), Summer 2024
 
  - **Alibaba Cloud**, Hangzhou, China   
-  Software Engineer, Elastic Block Storage (EBS) Team, 2019-2023
+  Senior Software Engineer, Elastic Block Storage (EBS) Team, 2019-2023
 
  - **Intel Corporation**, Shanghai, China  
-  Software Engineer Intern, SPDK Team, 2017-2019
+  Software Engineering Intern, SPDK Team, 2017-2019
 
 {{< colorHeadLight color='black' >}}Teaching Experience{{< /colorHeadLight >}}
  - **Introduction to Computer Architecture: A Software Perspective**  

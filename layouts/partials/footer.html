@@ -1,0 +1,10 @@
+{{ with site.Params.footer }}
+  {{ $footer := replace . "{{DATE_SHORT}}" (now.Format "Jan 2006") }}
+  <footer class="Footer">
+    <div class="u-wrapper">
+      <div class="u-padding">
+        {{ safeHTML $footer }}
+      </div>
+    </div>
+  </footer>
+{{ end }}

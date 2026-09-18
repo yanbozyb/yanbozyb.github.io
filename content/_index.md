@@ -29,7 +29,7 @@ I was also one of the founding members of [SPDK](https://spdk.io/) China team at
 -->
 {{< colorHeadLight color=black >}}News{{< /colorHeadLight >}}
 - (07/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at OSDI'26.
-- (06/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at the UCLA Systems Group.
+- (06/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at the UCLA Systems Seminar.
 - (05/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/).
 - (03/2026) Gave a talk on [Ristretto](../slides/FAST26_presentation.pdf) at Meta's AI and Systems Co-Design team.
 - (03/2026) [RamRyder](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo) was accepted to OSDI'26.
