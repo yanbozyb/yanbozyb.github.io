@@ -62,7 +62,7 @@ description: Publications
 {{< colorHeadLight color=black >}}Journal Articles{{< /colorHeadLight >}}
 {{< pub venue="TOS'26" >}}
 **Cloud Local Storage Goes Elastic: From Hardware Offloading to Hybrid Architecture**  
-<span class="name">Leping Yang</span>, **<span class="name">Yanbo Zhou</span>**, <span class="name">Gong Zeng</span>, <span class="name">Li Zhang</span>, <span class="name">Saisai Zhang</span>, <span class="name">Ruilin Wu</span>, <span class="name">Chaoyang Sun</span>, <span class="name">Shiyi Luo</span>, <span class="name">Wenrui Li</span>, <span class="name">Keqiang Niu</span>, <span class="name">Xiaolu Zhang</span>, <span class="name">Junping Wu</span>, <span class="name">Jiaji Zhu</span>, <span class="name">Jiesheng Wu</span>, <span class="name">Mariusz Barczak</span>, <span class="name">Wayne Gao</span>, <span class="name">Ruiming Lu</span>, <span class="name">Erci Xu</span>, <span class="name">Guangtao Xue</span>  
+<span class="name">Erci Xu</span>, <span class="name">Leping Yang</span>, **<span class="name">Yanbo Zhou</span>**, <span class="name">Gong Zeng</span>, <span class="name">Li Zhang</span>, <span class="name">Saisai Zhang</span>, <span class="name">Ruilin Wu</span>, <span class="name">Chaoyang Sun</span>, <span class="name">Shiyi Luo</span>, <span class="name">Wenrui Li</span>, <span class="name">Keqiang Niu</span>, <span class="name">Xiaolu Zhang</span>, <span class="name">Junping Wu</span>, <span class="name">Jiaji Zhu</span>, <span class="name">Jiesheng Wu</span>, <span class="name">Mariusz Barczak</span>, <span class="name">Wayne Gao</span>, <span class="name">Ruiming Lu</span>, <span class="name">Guangtao Xue</span>  
 ACM Transactions on Storage (TOS), 2026.
 {{< /pub >}}
 
