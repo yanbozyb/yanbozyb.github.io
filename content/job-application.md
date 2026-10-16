@@ -41,8 +41,6 @@ Paper [TBD]
 - **CSAL: the Next-Gen Local Disks for the Cloud**  
 **<span class="name">Yanbo Zhou</span>**, <span class="name">Erci Xu</span>, <span class="name">Li Zhang</span>, <span class="name">Kapil Karkra</span>, <span class="name">Mariusz Barczak</span>, <span class="name">Wayne Gao</span>, <span class="name">Wojciech Malikowski</span>, <span class="name">Mateusz Kozlowski</span>, <span class="name">Lukasz Lasek</span>, <span class="name">Ruiming Lu</span>, <span class="name">Feng Yang</span>, <span class="name">Lilong Huang</span>, <span class="name">Xiaolu Zhang</span>, <span class="name">Keqiang Niu</span>, <span class="name">Jiaji Zhu</span>, <span class="name">Jiesheng Wu</span>  
 19th ACM European Conference on Computer Systems (EuroSys), 2024.  
-*CSAL has been upstreamed into SPDK* (Check our [Source Code](https://github.com/spdk/spdk/tree/master/lib/ftl))  
-*CSAL has been deployed in production cloud infrastructure* (Check our [White Paper](../paper/csal_white_paper.pdf) and [Story](https://news.solidigm.com/en-WW/231383-csal-qlc-game-changer-and-open-source-solution-for-the-future/))    
 [[Paper]](../paper/csal_eurosys.pdf) / [[Slides]](../slides/csal_eurosys_used_for_external.pdf) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/) / [[Project Page]](https://www.solidigm.com/products/software/csal.html)  
 
 [Full publication list](../publications/)
