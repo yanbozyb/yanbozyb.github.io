@@ -8,25 +8,21 @@ outputs:
   - HTML
 ---
 
-{{< colorHeadLight color=black >}}Job Application{{< /colorHeadLight >}}
+{{< colorHeadLight color=black >}}Job Application 2026{{< /colorHeadLight >}}
 
-My research focuses on computer systems for cloud and AI infrastructure, with a particular emphasis
-on memory and storage systems. My goal is to make computer systems faster, more resource-efficient, and more reliable for traditional and agentic cloud workloads at large scale.
-This page brings together my application materials and representative  publications.
+This page brings together my application materials for academic job application in 2026.
 
 {{< colorHeadLight color=black >}}Application Materials{{< /colorHeadLight >}}
 
 - [Curriculum vitae](../cv.pdf)
 - [Research statement](../jobmarket/statement.pdf)
-- Teaching statement [TBD]
-- Cover letter [TBD]
 
 {{< colorHeadLight color=black >}}Representative Publications{{< /colorHeadLight >}}
 
-- **From Fork to Fleet: Scaling Agent Sandboxes over CXL Fabrics with Aspen**  
+- **Aspen: A New Abstraction for Efficient Memory Sharing Across Cloud VMs**  
 **<span class="name">Yanbo Zhou</span>**, <span class="name">Jinyong Moon</span>, <span class="name">Anisa Su</span>, <span class="name">Kyumin Park</span>, <span class="name">Dongjoo Seo</span>, <span class="name">Erci Xu</span>, <span class="name">Steven Swanson</span>  
-In submission.  
-Paper [TBD]
+In preparation for OSDI ’27.  
+*Research statement provides an overview of this work. A full draft will be posted when ready.*
 
 - **Break on Through to the Other Side: Pooling Memory Elastically with RamRyder**  
 **<span class="name">Yanbo Zhou</span>**, <span class="name">Erci Xu</span>, <span class="name">Dongjoo Seo</span>, <span class="name">Adam Manzanares</span>, <span class="name">Steven Swanson</span>  

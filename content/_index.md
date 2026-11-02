@@ -24,12 +24,10 @@ I am a Ph.D. candidate in Computer Science at [UC San Diego](https://ucsd.edu/),
 Before my Ph.D., I was a software engineer at **Alibaba Cloud** (2019 - 2023) where I was a founding member of the local storage team. At Alibaba Cloud, I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products. A well-known project I led was [Cloud Storage Acceleration Layer (CSAL)](../paper/csal_eurosys.pdf), which enabled high-density QLC NAND flash deployment in cloud data centers.
 Another significant project I led was an [ASIC/SoC co-designed DPU](https://www.usenix.org/conference/fast26/presentation/yang) for cloud local storage, which received the **Best Paper Award** at USENIX FAST'26.
 
-<!-- *
-I was also one of the founding members of [SPDK](https://spdk.io/) China team at **Intel** where I interned from 2017 to 2018. I was fortunate to work with SPDK members on several projects (e.g., user-mode vhost and NVMe driver) and then applied these innovations to large-scale data centers.
--->
 {{< colorHeadLight color=black >}}News{{< /colorHeadLight >}}
+- (10/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at the UCSD Computer Architecture Seminar.
 - (07/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at OSDI'26.
-- (06/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at the UCLA Systems Seminar.
+- (06/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at the UCLA Computer Systems Seminar.
 - (05/2026) Gave a talk on [RamRyder](https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf) at the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/).
 - (03/2026) Gave a talk on [Ristretto](../slides/FAST26_presentation.pdf) at Meta's AI and Systems Co-Design team.
 - (03/2026) [RamRyder](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo) was accepted to OSDI'26.

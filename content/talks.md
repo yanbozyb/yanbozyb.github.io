@@ -5,8 +5,9 @@ title: Talks
 ---
 {{< colorHeadLight color='black' >}}Talks{{< /colorHeadLight >}}
 - **Break on Through to the Other Side: Pooling Memory Elastically with RamRyder**  
+    UCSD Computer Architecture Seminar, Oct. 2026   
     OSDI'26, Jul. 2026  
-    UCLA Systems Seminar, Jun. 2026  
+    UCLA Computer Systems Seminar, Jun. 2026  
     ACE Center for Evolvable Computing, May 2026  
     [[Slides]](../slides/osdi26_slides_11_zhou-yanbo.pdf) / [[Talk]](https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo)
 
