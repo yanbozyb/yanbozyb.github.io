@@ -52,7 +52,7 @@
 <link rel="shortcut icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400;1,500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Mono:wght@400;500&display=swap">
 
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Yanbo Zhou's homepage","url":"https://yanbozyb.github.io/"}</script>
@@ -90,7 +90,7 @@
     
   
   
-  <link rel="stylesheet" href="/css/base.min.68ec660aaa4b128d02be3aaffd8e02f51ee9b34da5a9d12f3ac03d152c7fdd26.css" integrity="sha256-aOxmCqpLEo0Cvjqv/Y4C9R7ps02lqdEvOsA9FSx/3SY=" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/base.min.0fa68858821238bb237164ea4a9c0dee7c23678c0ef5beeff6ab8780a895bfa6.css" integrity="sha256-D6aIWIISOLsjcWTqSpwN7nwjZ4wO9b7v9quHgKiVv6Y=" crossorigin="anonymous">
 
 
 
@@ -145,19 +145,19 @@
     <img src="my3.jpg" alt="xxx" style="max-width: 100%; width: 12rem; flex: 0 1 auto; margin-right: 2.5rem;">
     
     <div id="second-column" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1 1 auto;">
-        <span style="font-size: 1.6rem; display: block; margin-bottom: 0; font-weight: 500;">Yanbo Zhou</span>
+        <span class="profile-name">Yanbo Zhou</span>
         <p>Ph.D. Candidate<br>
 <a href="https://www.nvsl.io/">Non-Volatile Systems Lab (NVSL)</a><br>
 <a href="https://ucsd.edu/">University of California, San Diego</a></p>
-<p><a href="mailto:yaz093@ucsd.edu">Email</a> / <a href="https://www.linkedin.com/in/yanbo-zhou-b37632291/">Linkedin</a> / <a href="https://scholar.google.com/citations?hl=en&amp;user=T5KZshEAAAAJ">Google Scholar</a> / <a href="../cv.pdf">CV</a></p>
+<p><a href="mailto:yaz093@ucsd.edu">Email</a> / <a href="https://www.linkedin.com/in/yanbo-zhou-b37632291/">Linkedin</a> / <a href="https://scholar.google.com/citations?hl=en&amp;user=T5KZshEAAAAJ">Google Scholar</a></p>
 
     </div>
     <div id="third-column" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1 1 auto; margin-left: 2.5rem;">
         <span style="font-weight: 500;">Research Interests:</span>
         <ul>
-<li>Cloud Infrastructure</li>
-<li>Memory and Storage Systems</li>
-<li>System Reliability and Sustainability</li>
+<li>Cloud and AI Infrastructure</li>
+<li>Storage and Memory Systems</li>
+<li>Efficient I/O Processing</li>
 <li>Software/Hardware Co-design</li>
 </ul>
 
@@ -189,25 +189,41 @@ window.addEventListener('resize', adjustMargin);
 window.addEventListener('load', adjustMargin);
 </script>
 
-<p>I am a Ph.D. candidate in Computer Science at <a href="https://ucsd.edu/">UC San Diego</a>, advised by Prof. <a href="https://swanson.ucsd.edu/">Steven Swanson</a>. My research spans multiple aspects of memory and storage systems for cloud infrastructure, including virtualization (<a href="https://ieeexplore.ieee.org/document/8567374">vhost-NVMe, SC2'18</a>), reliability (<a href="https://www.usenix.org/system/files/atc20-xue_0.pdf">Spool, USENIX ATC'20</a>), endurance (<a href="../paper/csal_eurosys.pdf">CSAL, EuroSys'24</a>), sustainability (<a href="../paper/sandman_sosp.pdf">Sandman, SOSP'25</a>), DPU design (<a href="https://www.usenix.org/conference/fast26/presentation/yang">Ristretto, FAST'26</a>), and software-defined memory (<a href="https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo">RamRyder, OSDI'26</a>).</p>
-<p>Before my Ph.D., I was a software engineer at <strong>Alibaba Cloud</strong> (2019 - 2023) where I was a founding member of the local storage team. At Alibaba Cloud, I contributed many innovations in cloud storage from concept to completion. Most of them have been deployed and currently benefit various storage products. A well-known project I led was <a href="../paper/csal_eurosys.pdf">Cloud Storage Acceleration Layer (CSAL)</a>, which enabled high-density QLC NAND flash deployment in cloud data centers.
+<p>I am a forth-year Ph.D. student in Computer Science at <a href="https://ucsd.edu/">UC San Diego</a>, advised by Prof. <a href="https://swanson.ucsd.edu/">Steven Swanson</a>.
+My research focuses on computer systems across storage, I/O, and memory for cloud and AI infrastructure. Specifically, I work on rearchitecting storage systems for emerging hardware technologies (<a href="https://ieeexplore.ieee.org/document/8567374">SC2'18</a>, <a href="https://www.usenix.org/system/files/atc20-xue_0.pdf">USENIX ATC'20</a>, <a href="../paper/csal_eurosys.pdf">EuroSys'24</a>), improving I/O processing efficiency (<a href="../paper/sandman_sosp.pdf">SOSP'25</a>, <a href="https://www.usenix.org/conference/fast26/presentation/yang">FAST'26</a>), and designing memory management beyond traditional boundaries (<a href="https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo">OSDI'26</a>). I am also collaborating with other researchers to address system-level challenges for AI agents (<a href="https://arxiv.org/abs/2607.00151">arXiv'26a</a>, <a href="https://arxiv.org/abs/2610.41508">arXiv'26b</a>).</p>
+<p>Before my Ph.D., I was a software engineer at <strong>Alibaba Cloud</strong> (2019 - 2023) where I built Alibaba Cloud’s <a href="https://www.alibabacloud.com/help/en/ecs/user-guide/local-disks">local storage product portfolio</a> from the ground up as a founding member of the team. At Alibaba, a well-known project I led was <a href="../paper/csal_eurosys.pdf">Cloud Storage Acceleration Layer (CSAL)</a>, which enabled high-density QLC NAND flash deployment in cloud data centers.
 Another significant project I led was an <a href="https://www.usenix.org/conference/fast26/presentation/yang">ASIC/SoC co-designed DPU</a> for cloud local storage, which received the <strong>Best Paper Award</strong> at USENIX FAST'26.</p>
-<h2 id="news" class="color-head-light">News</h2>
+<p class="job-market-notice">I am on the job market, looking for faculty roles in systems! Check out my <a href="../cv.pdf">CV</a> and <a href="../jobmarket/statement.pdf">Research Statement</a>.</p>
+<h2 id="representative-publications" class="color-head-light">Representative Publications</h2>
 
 <ul>
-<li>(10/2026) Gave a talk on <a href="https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf">RamRyder</a> at the UCSD Computer Architecture Seminar.</li>
-<li>(07/2026) Gave a talk on <a href="https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf">RamRyder</a> at OSDI'26.</li>
-<li>(06/2026) Gave a talk on <a href="https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf">RamRyder</a> at the UCLA Computer Systems Seminar.</li>
-<li>(05/2026) Gave a talk on <a href="https://www.usenix.org/system/files/osdi26_slides-zhou_yanbo.pdf">RamRyder</a> at the <a href="https://acecenter.grainger.illinois.edu/">ACE Center for Evolvable Computing</a>.</li>
-<li>(03/2026) Gave a talk on <a href="../slides/FAST26_presentation.pdf">Ristretto</a> at Meta&rsquo;s AI and Systems Co-Design team.</li>
-<li>(03/2026) <a href="https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo">RamRyder</a> was accepted to OSDI'26.</li>
-<li>(03/2026) Gave a talk on <a href="https://www.usenix.org/conference/fast26/presentation/yang">Ristretto</a> at FAST'26.</li>
-<li>(03/2026) <a href="https://www.usenix.org/conference/fast26/presentation/yang">Ristretto</a> received the Best Paper Award at FAST'26.</li>
-<li>(12/2025) <a href="https://www.usenix.org/conference/fast26/presentation/yang">Ristretto</a> was accepted to FAST'26.</li>
-<li>(12/2025) Gave a talk on <a href="../slides/sandman_updated.pdf">Sandman</a> at the <a href="https://acecenter.grainger.illinois.edu/">ACE Center for Evolvable Computing</a>.</li>
-<li>(09/2025) Gave a talk on <a href="../slides/sandman_updated.pdf">Sandman</a> at Meta&rsquo;s AI and Systems Co-Design team.</li>
-<li>(07/2025) <a href="../paper/sandman_sosp.pdf">Sandman</a> was accepted to SOSP'25.</li>
+<li>
+<p><strong>Break on Through to the Other Side: Pooling Memory Elastically with RamRyder</strong><br>
+<strong><span class="name">Yanbo Zhou</span></strong>, <span class="name">Erci Xu</span>, <span class="name">Dongjoo Seo</span>, <span class="name">Adam Manzanares</span>, <span class="name">Steven Swanson</span><br>
+20th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2026.<br>
+<a href="https://www.usenix.org/system/files/osdi26-zhou-yanbo.pdf">[Paper]</a> / <a href="../slides/osdi26_slides_11_zhou-yanbo.pdf">[Slides]</a> / <a href="https://www.usenix.org/conference/osdi26/presentation/zhou-yanbo">[Talk]</a> / <a href="https://ramryder-project.github.io/">[Project Page]</a></p>
+</li>
+<li>
+<p><strong>Here, There and Everywhere: The Past, the Present and the Future of Local Storage in Cloud</strong><br>
+<span class="name">Leping Yang</span>, <strong><span class="name">Yanbo Zhou</span></strong>, <span class="name">Gong Zeng</span>, <span class="name">Li Zhang</span>, <span class="name">Saisai Zhang</span>, <span class="name">Ruilin Wu</span>, <span class="name">Chaoyang Sun</span>, <span class="name">Shiyi Luo</span>, <span class="name">Wenrui Li</span>, <span class="name">Keqiang Niu</span>, <span class="name">Xiaolu Zhang</span>, <span class="name">Junping Wu</span>, <span class="name">Jiaji Zhu</span>, <span class="name">Jiesheng Wu</span>, <span class="name">Mariusz Barczak</span>, <span class="name">Wayne Gao</span>, <span class="name">Ruiming Lu</span>, <span class="name">Erci Xu</span>, <span class="name">Guangtao Xue</span><br>
+24th USENIX Conference on File and Storage Technologies (FAST), 2026.<br>
+<span class="pub-award">Erik Riedel Best Paper Award</span><br>
+<a href="https://www.usenix.org/system/files/fast26-yang.pdf">[Paper]</a> / <a href="../slides/FAST26_presentation.pdf">[Slides]</a> / <a href="https://www.usenix.org/conference/fast26/presentation/yang">[Talk]</a></p>
+</li>
+<li>
+<p><strong>Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman</strong><br>
+<strong><span class="name">Yanbo Zhou</span></strong>, <span class="name">Erci Xu</span>, <span class="name">Anisa Su</span>, <span class="name">Jim Harris</span>, <span class="name">Adam Manzanares</span>, <span class="name">Steven Swanson</span><br>
+31st ACM Symposium on Operating Systems Principles (SOSP), 2025.<br>
+<a href="../paper/sandman_sosp.pdf">[Paper]</a> / <a href="../slides/sandman_updated.pdf">[Slides]</a></p>
+</li>
+<li>
+<p><strong>CSAL: the Next-Gen Local Disks for the Cloud</strong><br>
+<strong><span class="name">Yanbo Zhou</span></strong>, <span class="name">Erci Xu</span>, <span class="name">Li Zhang</span>, <span class="name">Kapil Karkra</span>, <span class="name">Mariusz Barczak</span>, <span class="name">Wayne Gao</span>, <span class="name">Wojciech Malikowski</span>, <span class="name">Mateusz Kozlowski</span>, <span class="name">Lukasz Lasek</span>, <span class="name">Ruiming Lu</span>, <span class="name">Feng Yang</span>, <span class="name">Lilong Huang</span>, <span class="name">Xiaolu Zhang</span>, <span class="name">Keqiang Niu</span>, <span class="name">Jiaji Zhu</span>, <span class="name">Jiesheng Wu</span><br>
+19th ACM European Conference on Computer Systems (EuroSys), 2024.<br>
+<a href="../paper/csal_eurosys.pdf">[Paper]</a> / <a href="../slides/csal_eurosys_used_for_external.pdf">[Slides]</a> / <a href="https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/">[Press]</a> / <a href="https://www.solidigm.com/products/software/csal.html">[Project Page]</a></p>
+</li>
 </ul>
+<p><a href="../publications/">Full publication list</a></p>
 
 
       </div>

@@ -4,7 +4,14 @@ description: Publications
 #date: 2019-02-28
 ---
 
-{{< colorHeadLight color=black >}}Conference Papers{{< /colorHeadLight >}}
+{{< colorHeadLight color=black >}}Conference and Journal Publications{{< /colorHeadLight >}}
+{{< pub venue="TOS'26" >}}
+**Cloud Local Storage Goes Elastic: From Hardware Offloading to Hybrid Architecture**  
+<span class="name">Erci Xu</span>, <span class="name">Leping Yang</span>, **<span class="name">Yanbo Zhou</span>**, <span class="name">Gong Zeng</span>, <span class="name">Li Zhang</span>, <span class="name">Saisai Zhang</span>, <span class="name">Ruilin Wu</span>, <span class="name">Chaoyang Sun</span>, <span class="name">Shiyi Luo</span>, <span class="name">Wenrui Li</span>, <span class="name">Keqiang Niu</span>, <span class="name">Xiaolu Zhang</span>, <span class="name">Junping Wu</span>, <span class="name">Jiaji Zhu</span>, <span class="name">Jiesheng Wu</span>, <span class="name">Mariusz Barczak</span>, <span class="name">Wayne Gao</span>, <span class="name">Ruiming Lu</span>, <span class="name">Guangtao Xue</span>  
+To appear at ACM Transactions on Storage (TOS), 2026.  
+<span class="pub-note">Invited Paper (extended version for FAST'26)</span>
+{{< /pub >}}
+
 {{< pub venue="OSDI'26" >}}
 **Break on Through to the Other Side: Pooling Memory Elastically with RamRyder**  
 **<span class="name">Yanbo Zhou</span>**, <span class="name">Erci Xu</span>, <span class="name">Dongjoo Seo</span>, <span class="name">Adam Manzanares</span>, <span class="name">Steven Swanson</span>  
@@ -31,8 +38,8 @@ description: Publications
 **CSAL: the Next-Gen Local Disks for the Cloud**  
 **<span class="name">Yanbo Zhou</span>**, <span class="name">Erci Xu</span>, <span class="name">Li Zhang</span>, <span class="name">Kapil Karkra</span>, <span class="name">Mariusz Barczak</span>, <span class="name">Wayne Gao</span>, <span class="name">Wojciech Malikowski</span>, <span class="name">Mateusz Kozlowski</span>, <span class="name">Lukasz Lasek</span>, <span class="name">Ruiming Lu</span>, <span class="name">Feng Yang</span>, <span class="name">Lilong Huang</span>, <span class="name">Xiaolu Zhang</span>, <span class="name">Keqiang Niu</span>, <span class="name">Jiaji Zhu</span>, <span class="name">Jiesheng Wu</span>  
 19th ACM European Conference on Computer Systems (EuroSys), 2024.  
-<span class="pub-note">CSAL has been upstreamed into SPDK</span> (Check our [Source Code](https://github.com/spdk/spdk/tree/master/lib/ftl))  
-<span class="pub-note">CSAL has been deployed in production cloud infrastructure</span> (Check our [White Paper](../paper/csal_white_paper.pdf) and [Story](https://news.solidigm.com/en-WW/231383-csal-qlc-game-changer-and-open-source-solution-for-the-future/))    
+<span class="pub-note">CSAL has been upstreamed into SPDK</span> (see our [source code](https://github.com/spdk/spdk/tree/master/lib/ftl))  
+<span class="pub-note">CSAL has been deployed in production cloud infrastructure</span> (see our [white paper](../paper/csal_white_paper.pdf) and [story](https://news.solidigm.com/en-WW/231383-csal-qlc-game-changer-and-open-source-solution-for-the-future/))    
 [[Paper]](../paper/csal_eurosys.pdf) / [[Slides]](../slides/csal_eurosys_used_for_external.pdf) / [[Press]](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/) / [[Project Page]](https://www.solidigm.com/products/software/csal.html)  
 [Talks from my collaborators: [Tech Field Day'22](https://www.youtube.com/watch?v=uLFYkoJaYpM), [Tech Field Day'23](https://www.youtube.com/watch?v=tAdQC5G0S8o), [SNIA SDC'22](https://www.youtube.com/watch?v=qeNBSjGq0dA), [SNIA SDC'23](https://www.theregister.com/2024/05/02/alibaba_cloud_csal_ecs_scaling/)]
 {{< /pub >}}
@@ -59,11 +66,19 @@ description: Publications
 / [[Project Page]](https://spdk.io/doc/vhost.html)
 {{< /pub >}}
 
-{{< colorHeadLight color=black >}}Journal Articles{{< /colorHeadLight >}}
-{{< pub venue="TOS'26" >}}
-**Cloud Local Storage Goes Elastic: From Hardware Offloading to Hybrid Architecture**  
-<span class="name">Erci Xu</span>, <span class="name">Leping Yang</span>, **<span class="name">Yanbo Zhou</span>**, <span class="name">Gong Zeng</span>, <span class="name">Li Zhang</span>, <span class="name">Saisai Zhang</span>, <span class="name">Ruilin Wu</span>, <span class="name">Chaoyang Sun</span>, <span class="name">Shiyi Luo</span>, <span class="name">Wenrui Li</span>, <span class="name">Keqiang Niu</span>, <span class="name">Xiaolu Zhang</span>, <span class="name">Junping Wu</span>, <span class="name">Jiaji Zhu</span>, <span class="name">Jiesheng Wu</span>, <span class="name">Mariusz Barczak</span>, <span class="name">Wayne Gao</span>, <span class="name">Ruiming Lu</span>, <span class="name">Guangtao Xue</span>  
-ACM Transactions on Storage (TOS), 2026.
+{{< colorHeadLight color=black >}}Preprints{{< /colorHeadLight >}}
+{{< pub venue="2026" >}}
+**HiState: Hierarchical Prefix Cache Management for Hybrid LLM Serving in Agentic Workloads**  
+<span class="name">Zaifeng Pan*</span>, <span class="name">Lucas Wang*</span>, <span class="name">Xinwei Qiang</span>, **<span class="name">Yanbo Zhou</span>**, <span class="name">Chang Chen</span>, <span class="name">Zhengding Hu</span>, <span class="name">Yue Guan</span>, <span class="name">Yufei Ding</span>  
+arXiv preprint arXiv:2610.41508, 2026.  
+[[Paper]](https://arxiv.org/abs/2610.41508)
+{{< /pub >}}
+
+{{< pub venue="2026" >}}
+**SmoothAgent: Efficient Long-Horizon LLM-Based Agent Serving with Lookahead Context Engineering**  
+<span class="name">Zaifeng Pan</span>, <span class="name">Qianxu Wang</span>, <span class="name">Zhengding Hu</span>, <span class="name">Chang Chen</span>, <span class="name">Yue Guan</span>, **<span class="name">Yanbo Zhou</span>**, <span class="name">Steven Swanson</span>, <span class="name">Yufei Ding</span>  
+arXiv preprint arXiv:2607.00151, 2026.  
+[[Paper]](https://arxiv.org/abs/2607.00151)
 {{< /pub >}}
 
 {{< colorHeadLight color=black >}}Book Chapters{{< /colorHeadLight >}}
